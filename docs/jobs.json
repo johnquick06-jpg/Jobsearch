@@ -1,36 +1,7 @@
 {
- "updated": "2026-09-30T14:13:40+00:00",
- "count": 77,
+ "updated": "2026-09-30T16:43:16+00:00",
+ "count": 76,
  "jobs": [
-  {
-   "score": 100,
-   "fit": 100,
-   "title": "Senior Producer, Multimedia (Contract)",
-   "company": "bungie",
-   "location": "United States, Remote",
-   "mode": "Remote",
-   "org": "Studio/Publisher",
-   "type": "Contract",
-   "salary": "$132k (converted from hourly)",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/bungie/jobs/6139094004",
-   "source": "Greenhouse",
-   "matched": [
-    "adobe",
-    "agile",
-    "content",
-    "creative",
-    "cross-functional",
-    "jira",
-    "localization",
-    "marketing"
-   ],
-   "gaps": [
-    "asana",
-    "pr"
-   ],
-   "posted": "2026-09-10T17:40:00-04:00"
-  },
   {
    "score": 100,
    "fit": 100,
