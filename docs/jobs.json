@@ -1,0 +1,200 @@
+{
+ "updated": "2026-09-30T00:01:12+00:00",
+ "count": 7,
+ "jobs": [
+  {
+   "score": 98,
+   "fit": 96,
+   "title": "Content Marketing Manager",
+   "company": "Scopely",
+   "location": "Culver City, CA",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$120k\u2013$140k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://example.com/Content-Marketing-Manager",
+   "source": "Sample",
+   "matched": [
+    "agile",
+    "campaign",
+    "content",
+    "cross-functional",
+    "jira",
+    "live service",
+    "localization",
+    "marketing"
+   ],
+   "gaps": [
+    "google analytics",
+    "seo",
+    "social media"
+   ],
+   "posted": null
+  },
+  {
+   "score": 94,
+   "fit": 87,
+   "title": "Creative Producer (Contract)",
+   "company": "Kabam",
+   "location": "Remote, US",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Contract",
+   "salary": "$135k\u2013$166k (converted from hourly)",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://example.com/Creative-Producer-(Contract)",
+   "source": "Sample",
+   "matched": [
+    "agile",
+    "campaign",
+    "creative",
+    "cross-functional",
+    "jira",
+    "live service",
+    "localization",
+    "roadmap"
+   ],
+   "gaps": [],
+   "posted": null
+  },
+  {
+   "score": 92,
+   "fit": 99,
+   "title": "Senior UA Marketing Manager",
+   "company": "Playstudios",
+   "location": "Remote, USA",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://example.com/Senior-UA-Marketing-Manager",
+   "source": "Sample",
+   "matched": [
+    "agile",
+    "campaign",
+    "cross-functional",
+    "jira",
+    "live service",
+    "localization",
+    "marketing",
+    "performance marketing"
+   ],
+   "gaps": [
+    "appsflyer",
+    "ltv",
+    "roas"
+   ],
+   "posted": null
+  },
+  {
+   "score": 88,
+   "fit": 76,
+   "title": "Producer, Games Marketing",
+   "company": "Netflix",
+   "location": "Los Angeles, CA",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$130k\u2013$175k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://example.com/Producer,-Games-Marketing",
+   "source": "Sample",
+   "matched": [
+    "agile",
+    "campaign",
+    "cross-functional",
+    "jira",
+    "launch",
+    "live service",
+    "localization",
+    "marketing"
+   ],
+   "gaps": [],
+   "posted": null
+  },
+  {
+   "score": 88,
+   "fit": 96,
+   "title": "Senior Producer, Marketing Content",
+   "company": "Riot Games",
+   "location": "Los Angeles, CA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$150k\u2013$190k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://example.com/Senior-Producer,-Marketing-Content",
+   "source": "Sample",
+   "matched": [
+    "agile",
+    "campaign",
+    "content",
+    "cross-functional",
+    "jira",
+    "live service",
+    "localization",
+    "marketing"
+   ],
+   "gaps": [
+    "asana",
+    "figma",
+    "budget"
+   ],
+   "posted": null
+  },
+  {
+   "score": 76,
+   "fit": 92,
+   "title": "Senior Producer, Game Trailers",
+   "company": "Mocean",
+   "location": "Los Angeles, CA",
+   "mode": "On-site",
+   "org": "Vendor",
+   "type": "Full-time",
+   "salary": "$105k\u2013$125k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://example.com/Senior-Producer,-Game-Trailers",
+   "source": "Sample",
+   "matched": [
+    "agile",
+    "campaign",
+    "cross-functional",
+    "jira",
+    "live service",
+    "localization",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [],
+   "posted": null
+  },
+  {
+   "score": 63,
+   "fit": 72,
+   "title": "Producer",
+   "company": "Unknown Games",
+   "location": "Irvine, CA",
+   "mode": "On-site",
+   "org": "Other",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://example.com/Producer",
+   "source": "Sample",
+   "matched": [
+    "agile",
+    "campaign",
+    "cross-functional",
+    "jira",
+    "live service",
+    "localization",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [],
+   "posted": null
+  }
+ ]
+}

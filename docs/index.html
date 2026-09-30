@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Game Job Finder</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1c2230;--mute:#667085;--line:#e4e7ec;--accent:#3b5bdb;
+--good:#12805c;--goodbg:#e3f6ee;--warn:#9a6700;--warnbg:#fff4d6;--gray:#475467;--graybg:#eef0f3;--blue:#1d4ed8;--bluebg:#e5edff}
+@media(prefers-color-scheme:dark){:root{--bg:#12151c;--card:#1b2030;--ink:#eef1f7;--mute:#9aa4b8;--line:#2b3247;--accent:#8ea2ff;
+--good:#5fd6a6;--goodbg:#15382c;--warn:#f2c14e;--warnbg:#3a2f12;--gray:#c3cad9;--graybg:#262c40;--blue:#9db5ff;--bluebg:#22305e}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:900px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:1.5rem;margin:0}.sub{color:var(--mute);font-size:.9rem;margin:2px 0 14px}
+.tabs{display:flex;gap:6px;margin-bottom:12px}
+.tab{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:8px 14px;border-radius:8px;cursor:pointer;font:inherit}
+.tab[aria-selected=true]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:6px 12px;border-radius:999px;cursor:pointer;font:inherit;font-size:.88rem}
+.chip[aria-pressed=true]{background:var(--accent);color:#fff;border-color:var(--accent)}
+.job{display:grid;grid-template-columns:56px 1fr auto;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+.score{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;font-weight:700;font-size:1.05rem;background:var(--goodbg);color:var(--good)}
+.score.mid{background:var(--warnbg);color:var(--warn)}.score.low{background:var(--graybg);color:var(--gray)}
+.t{font-weight:650}.c{color:var(--mute);font-size:.9rem}
+.badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.b{font-size:.75rem;padding:2px 8px;border-radius:6px;background:var(--graybg);color:var(--gray)}
+.b.g{background:var(--goodbg);color:var(--good)}.b.w{background:var(--warnbg);color:var(--warn)}.b.i{background:var(--bluebg);color:var(--blue)}
+.act{display:flex;flex-direction:column;gap:6px;align-items:stretch}
+a.apply{background:var(--accent);color:#fff;text-decoration:none;padding:7px 14px;border-radius:8px;text-align:center;font-size:.9rem}
+select{font:inherit;font-size:.82rem;padding:4px;border-radius:6px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+details{margin-top:8px;font-size:.85rem;color:var(--mute)}summary{cursor:pointer}
+.empty{text-align:center;color:var(--mute);padding:40px 0}
+.tips{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px 20px 14px}
+.tips li{margin:9px 0}
+.hide{display:none}
+@media(max-width:560px){.job{grid-template-columns:48px 1fr}.act{grid-column:1/-1;flex-direction:row}.act>*{flex:1}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Game Job Finder</h1>
+  <p class="sub" id="updated">Loading…</p>
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" aria-selected="true" data-tab="jobs">Jobs</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="tips">Resume tips</button>
+  </div>
+
+  <section id="jobs">
+    <div class="filters" id="filters"></div>
+    <div id="list"></div>
+  </section>
+
+  <section id="tips" class="hide">
+    <div class="tips">
+      <h3>Get your resume ready</h3>
+      <ol>
+        <li><b>Pick one headline.</b> Use “Senior Producer – Live Service &amp; Content Marketing” for marketing roles and keep a separate “Content Operations” version for ops roles.</li>
+        <li><b>Drop the street address.</b> “Pasadena, CA” is enough.</li>
+        <li><b>Send an ATS-safe version.</b> Use a single column with no sidebar or illustrations. Keep the designed version for people you contact directly.</li>
+        <li><b>Add numbers to Riot and Blizzard.</b> Include budget, team size, launches shipped, on-time rate and campaign results.</li>
+        <li><b>Clarify “50% player retention.”</b> Say which day (D1, D7 or D30) and how it was measured.</li>
+        <li><b>Lead with UA and performance marketing</b> for marketing roles. Add tools you have really used, such as Asana or Smartsheet, Figma, Frame.io, Meta, Google and TikTok ad platforms, AppsFlyer or Adjust, and analytics tools.</li>
+        <li><b>Add a two-line summary</b> at the top with your years of experience and your Riot and Blizzard launches.</li>
+        <li><b>Consider dropping graduation years.</b></li>
+        <li><b>Use the “Skills to add” line on each job.</b> If you truly have a skill listed there, work that exact wording into your bullets.</li>
+      </ol>
+    </div>
+  </section>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const store = {
+  get(k, d){ try { return JSON.parse(localStorage.getItem(k)) ?? d } catch(e){ return d } },
+  set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)) } catch(e){} }
+};
+let JOBS = [], status = store.get('status', {});
+const F = { mode: 'All', org: 'All', type: 'All', sal: 'All', view: 'All' };
+const OPTS = {
+  mode: ['All','Remote','Hybrid','On-site'],
+  org: ['All','Studio/Publisher','Other','Vendor'],
+  type: ['All','Full-time','Contract'],
+  sal: ['All','≥ $110k','Near floor','Unlisted'],
+  view: ['All','Saved','Applied','Interview']
+};
+const LABEL = {mode:'Where',org:'Who',type:'Type',sal:'Pay',view:'My list'};
+
+function buildFilters(){
+  const el = $('#filters'); el.innerHTML = '';
+  for (const k in OPTS){
+    const wrap = document.createElement('span');
+    wrap.style.cssText = 'display:flex;gap:6px;align-items:center;flex-wrap:wrap';
+    wrap.innerHTML = `<small class="c">${LABEL[k]}</small>`;
+    OPTS[k].forEach(v => {
+      const b = document.createElement('button');
+      b.className = 'chip'; b.textContent = v; b.setAttribute('aria-pressed', F[k] === v);
+      b.onclick = () => { F[k] = v; buildFilters(); render(); };
+      wrap.appendChild(b);
+    });
+    el.appendChild(wrap);
+  }
+}
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const key = j => j.company + '|' + j.title + '|' + j.location;
+
+function render(){
+  const rows = JOBS.filter(j =>
+    (F.mode==='All'||j.mode===F.mode) && (F.org==='All'||j.org===F.org) &&
+    (F.type==='All'||j.type===F.type) && (F.sal==='All'||j.salary_tag===F.sal) &&
+    (F.view==='All'||status[key(j)]===F.view));
+  $('#list').innerHTML = rows.length ? rows.map(j => {
+    const cls = j.score >= 85 ? '' : j.score >= 70 ? 'mid' : 'low';
+    const st = status[key(j)] || '';
+    return `<article class="job">
+      <div class="score ${cls}" title="Match score">${j.score}</div>
+      <div>
+        <div class="t">${esc(j.title)}</div>
+        <div class="c">${esc(j.company)} · ${esc(j.location)}</div>
+        <div class="badges">
+          <span class="b ${j.mode==='On-site'?'':'g'}">${esc(j.mode)}</span>
+          <span class="b ${j.org==='Studio/Publisher'?'i':j.org==='Vendor'?'w':''}">${esc(j.org)}</span>
+          <span class="b">${esc(j.type)}</span>
+          <span class="b ${j.salary_tag==='≥ $110k'?'g':j.salary_tag==='Near floor'?'w':''}">${esc(j.salary)}</span>
+        </div>
+        ${(j.gaps&&j.gaps.length)||(j.matched&&j.matched.length)?`<details><summary>Why this match</summary>
+          ${j.matched.length?`<div>Matches your resume: ${j.matched.map(esc).join(', ')}</div>`:''}
+          ${j.gaps.length?`<div><b>Skills to add if true:</b> ${j.gaps.map(esc).join(', ')}</div>`:''}</details>`:''}
+      </div>
+      <div class="act">
+        <a class="apply" href="${esc(j.url)}" target="_blank" rel="noopener">Apply</a>
+        <select data-k="${esc(key(j))}" aria-label="Status">
+          ${['','Saved','Applied','Interview'].map(o=>`<option ${o===st?'selected':''} value="${o}">${o||'Track…'}</option>`).join('')}
+        </select>
+      </div></article>`;
+  }).join('') : '<div class="empty">No jobs match these filters.</div>';
+  document.querySelectorAll('select[data-k]').forEach(s => s.onchange = () => {
+    status[s.dataset.k] = s.value; if (!s.value) delete status[s.dataset.k];
+    store.set('status', status);
+  });
+}
+
+document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
+  document.querySelectorAll('.tab').forEach(x => x.setAttribute('aria-selected', x === t));
+  ['jobs','tips'].forEach(id => $('#'+id).classList.toggle('hide', id !== t.dataset.tab));
+});
+
+fetch('jobs.json', {cache:'no-store'}).then(r => r.json()).then(d => {
+  JOBS = d.jobs;
+  const when = new Date(d.updated).toLocaleString();
+  $('#updated').textContent = `${d.count} jobs · sorted by match score · updated ${when}`;
+  buildFilters(); render();
+}).catch(() => { $('#updated').textContent = 'Could not load jobs.json'; });
+</script>
+</body>
+</html>
