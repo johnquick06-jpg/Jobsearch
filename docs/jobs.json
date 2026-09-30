@@ -1,200 +1,2058 @@
 {
- "updated": "2026-09-30T00:01:12+00:00",
- "count": 7,
+ "updated": "2026-09-30T01:39:33+00:00",
+ "count": 78,
  "jobs": [
   {
-   "score": 98,
-   "fit": 96,
-   "title": "Content Marketing Manager",
-   "company": "Scopely",
-   "location": "Culver City, CA",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$120k\u2013$140k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://example.com/Content-Marketing-Manager",
-   "source": "Sample",
-   "matched": [
-    "agile",
-    "campaign",
-    "content",
-    "cross-functional",
-    "jira",
-    "live service",
-    "localization",
-    "marketing"
-   ],
-   "gaps": [
-    "google analytics",
-    "seo",
-    "social media"
-   ],
-   "posted": null
-  },
-  {
-   "score": 94,
-   "fit": 87,
-   "title": "Creative Producer (Contract)",
-   "company": "Kabam",
-   "location": "Remote, US",
+   "score": 100,
+   "fit": 100,
+   "title": "Senior Producer, Multimedia (Contract)",
+   "company": "bungie",
+   "location": "United States, Remote",
    "mode": "Remote",
    "org": "Studio/Publisher",
    "type": "Contract",
-   "salary": "$135k\u2013$166k (converted from hourly)",
+   "salary": "$132k (converted from hourly)",
    "salary_tag": "\u2265 $110k",
-   "url": "https://example.com/Creative-Producer-(Contract)",
-   "source": "Sample",
+   "url": "https://job-boards.greenhouse.io/bungie/jobs/6139094004",
+   "source": "Greenhouse",
    "matched": [
+    "adobe",
     "agile",
-    "campaign",
+    "content",
     "creative",
     "cross-functional",
     "jira",
-    "live service",
-    "localization",
-    "roadmap"
-   ],
-   "gaps": [],
-   "posted": null
-  },
-  {
-   "score": 92,
-   "fit": 99,
-   "title": "Senior UA Marketing Manager",
-   "company": "Playstudios",
-   "location": "Remote, USA",
-   "mode": "Remote",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://example.com/Senior-UA-Marketing-Manager",
-   "source": "Sample",
-   "matched": [
-    "agile",
-    "campaign",
-    "cross-functional",
-    "jira",
-    "live service",
-    "localization",
-    "marketing",
-    "performance marketing"
-   ],
-   "gaps": [
-    "appsflyer",
-    "ltv",
-    "roas"
-   ],
-   "posted": null
-  },
-  {
-   "score": 88,
-   "fit": 76,
-   "title": "Producer, Games Marketing",
-   "company": "Netflix",
-   "location": "Los Angeles, CA",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$130k\u2013$175k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://example.com/Producer,-Games-Marketing",
-   "source": "Sample",
-   "matched": [
-    "agile",
-    "campaign",
-    "cross-functional",
-    "jira",
-    "launch",
-    "live service",
-    "localization",
-    "marketing"
-   ],
-   "gaps": [],
-   "posted": null
-  },
-  {
-   "score": 88,
-   "fit": 96,
-   "title": "Senior Producer, Marketing Content",
-   "company": "Riot Games",
-   "location": "Los Angeles, CA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$150k\u2013$190k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://example.com/Senior-Producer,-Marketing-Content",
-   "source": "Sample",
-   "matched": [
-    "agile",
-    "campaign",
-    "content",
-    "cross-functional",
-    "jira",
-    "live service",
     "localization",
     "marketing"
    ],
    "gaps": [
     "asana",
-    "figma",
-    "budget"
+    "pr"
    ],
-   "posted": null
+   "posted": "2026-09-10T17:40:00-04:00"
   },
   {
-   "score": 76,
-   "fit": 92,
-   "title": "Senior Producer, Game Trailers",
-   "company": "Mocean",
-   "location": "Los Angeles, CA",
-   "mode": "On-site",
-   "org": "Vendor",
+   "score": 100,
+   "fit": 100,
+   "title": "Product Marketing Manager- Monopoly Go!",
+   "company": "scopely",
+   "location": "US - Culver City, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "$105k\u2013$125k",
+   "salary": "$113k",
    "salary_tag": "\u2265 $110k",
-   "url": "https://example.com/Senior-Producer,-Game-Trailers",
-   "source": "Sample",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5375407008?gh_jid=5375407008",
+   "source": "Greenhouse",
    "matched": [
-    "agile",
     "campaign",
+    "content",
+    "creative",
     "cross-functional",
-    "jira",
-    "live service",
-    "localization",
-    "roadmap",
-    "stakeholder"
+    "launch",
+    "marketing",
+    "performance marketing",
+    "production"
    ],
-   "gaps": [],
-   "posted": null
+   "gaps": [
+    "crm",
+    "community",
+    "creative testing",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-08-05T06:35:33-04:00"
   },
   {
-   "score": 63,
-   "fit": 72,
-   "title": "Producer",
-   "company": "Unknown Games",
-   "location": "Irvine, CA",
+   "score": 98,
+   "fit": 96,
+   "title": "Principal Marketing Manager, Marathon (Contract)",
+   "company": "bungie",
+   "location": "United States, Remote",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Contract",
+   "salary": "$164k (converted from hourly)",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/bungie/jobs/6181868004",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "creative",
+    "cross-functional",
+    "launch",
+    "live-service",
+    "marketing",
+    "milestone",
+    "publishing"
+   ],
+   "gaps": [
+    "budget",
+    "community"
+   ],
+   "posted": "2026-09-22T14:25:59-04:00"
+  },
+  {
+   "score": 93,
+   "fit": 85,
+   "title": "Principal Product Marketing Manager, Foundation AI",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$264k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8106059?gh_jid=8106059",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "launch",
+    "marketing",
+    "production",
+    "roadmap",
+    "video"
+   ],
+   "gaps": [
+    "community",
+    "playable"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 86,
+   "fit": 92,
+   "title": "Growth Marketing Manager Lead ",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
    "mode": "On-site",
-   "org": "Other",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$216k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8077671?gh_jid=8077671",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "cross-functional",
+    "influencer",
+    "marketing",
+    "performance marketing",
+    "risk",
+    "roadmap"
+   ],
+   "gaps": [
+    "sql",
+    "ltv",
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 86,
+   "fit": 92,
+   "title": "Senior Growth Marketing Manager ",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$176k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/7977893?gh_jid=7977893",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "cross-functional",
+    "influencer",
+    "marketing",
+    "performance marketing",
+    "risk",
+    "roadmap"
+   ],
+   "gaps": [
+    "sql",
+    "ltv",
+    "community"
+   ],
+   "posted": "2026-09-29T18:50:22-04:00"
+  },
+  {
+   "score": 81,
+   "fit": 96,
+   "title": "Principal Content Producer, Riftbound Publishing",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
    "type": "Full-time",
    "salary": "Unlisted",
    "salary_tag": "Unlisted",
-   "url": "https://example.com/Producer",
-   "source": "Sample",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8148779?gh_jid=8148779",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "content",
+    "creative",
+    "cross-functional",
+    "launch",
+    "marketing",
+    "pipeline",
+    "production"
+   ],
+   "gaps": [
+    "community",
+    "copywriting"
+   ],
+   "posted": "2026-09-11T02:10:37-04:00"
+  },
+  {
+   "score": 80,
+   "fit": 74,
+   "title": "Marathon Producer (Contract)",
+   "company": "bungie",
+   "location": "United States, Remote",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Contract",
+   "salary": "$104k (converted from hourly)",
+   "salary_tag": "Near floor",
+   "url": "https://job-boards.greenhouse.io/bungie/jobs/6193604004",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "jira",
+    "live-service",
+    "milestone",
+    "miro",
+    "pipeline",
+    "production"
+   ],
+   "gaps": [
+    "budget"
+   ],
+   "posted": "2026-09-18T16:43:20-04:00"
+  },
+  {
+   "score": 78,
+   "fit": 75,
+   "title": "Operations Manager, Influencer Marketing",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$191k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8187226?gh_jid=8187226",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "content",
+    "cross-functional",
+    "influencer",
+    "launch",
+    "marketing",
+    "pipeline",
+    "stakeholder"
+   ],
+   "gaps": [
+    "crm",
+    "community",
+    "influencer marketing"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 77,
+   "fit": 70,
+   "title": "Technical Producer II - Publishing Platform, Commerce",
+   "company": "riotgames",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8049863?gh_jid=8049863",
+   "source": "Greenhouse",
    "matched": [
     "agile",
+    "jira",
+    "miro",
+    "production",
+    "publishing",
+    "release",
+    "risk",
+    "roadmap"
+   ],
+   "gaps": [
+    "figma"
+   ],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 76,
+   "fit": 71,
+   "title": "Product Marketing Manager, Marketplace ",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$217k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8139492?gh_jid=8139492",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "launch",
+    "marketing",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 75,
+   "fit": 49,
+   "title": "Senior Director of Product, Performance - Unannounced Title",
+   "company": "scopely",
+   "location": "US - Culver City, United States; US - United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$223k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5308474008?gh_jid=5308474008",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "cross-functional",
+    "launch",
+    "live-service",
+    "marketing",
+    "production",
+    "publishing"
+   ],
+   "gaps": [
+    "community",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-03T12:56:54-04:00"
+  },
+  {
+   "score": 74,
+   "fit": 68,
+   "title": "Influencer Marketing Specialist",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$152k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8187220?gh_jid=8187220",
+   "source": "Greenhouse",
+   "matched": [
     "campaign",
+    "content",
+    "creative",
+    "cross-functional",
+    "influencer",
+    "marketing",
+    "production",
+    "risk"
+   ],
+   "gaps": [
+    "crm",
+    "social media",
+    "community",
+    "influencer marketing"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 73,
+   "fit": 81,
+   "title": "Principal Creative Director, Growth Marketing",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8229332?gh_jid=8229332",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "localization",
+    "marketing",
+    "milestone",
+    "performance marketing",
+    "pipeline",
+    "production"
+   ],
+   "gaps": [
+    "community",
+    "creative testing",
+    "mobile"
+   ],
+   "posted": "2026-09-25T13:02:12-04:00"
+  },
+  {
+   "score": 73,
+   "fit": 81,
+   "title": "Senior Technical Producer, 1st Party Platforms - Central Compliance & Release",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8232198?gh_jid=8232198",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "airtable",
     "cross-functional",
     "jira",
+    "launch",
+    "marketing",
+    "production",
+    "publishing"
+   ],
+   "gaps": [
+    "mobile"
+   ],
+   "posted": "2026-09-28T13:16:52-04:00"
+  },
+  {
+   "score": 73,
+   "fit": 66,
+   "title": "Director, Head of Product Marketing",
+   "company": "twitch",
+   "location": "Irvine, CA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$187k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8846380002",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "launch",
+    "marketing",
+    "roadmap"
+   ],
+   "gaps": [
+    "ltv",
+    "crm",
+    "community"
+   ],
+   "posted": "2026-09-25T17:25:28-04:00"
+  },
+  {
+   "score": 72,
+   "fit": 79,
+   "title": "Senior Technical Producer - Developer Connections, Build & Release",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8115072?gh_jid=8115072",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "content",
+    "jira",
+    "launch",
+    "production",
+    "release",
+    "risk",
+    "roadmap"
+   ],
+   "gaps": [],
+   "posted": "2026-09-23T17:15:02-04:00"
+  },
+  {
+   "score": 72,
+   "fit": 63,
+   "title": "Creative Director",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$231k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8167425?gh_jid=8167425",
+   "source": "Greenhouse",
+   "matched": [
+    "adobe",
+    "campaign",
+    "content",
+    "creative",
+    "cross-functional",
+    "marketing",
+    "production",
+    "stakeholder"
+   ],
+   "gaps": [
+    "figma",
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 72,
+   "fit": 45,
+   "title": "Senior Director of Community - New Game",
+   "company": "scopely",
+   "location": "US - United States",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$190k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5220555008?gh_jid=5220555008",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "cross-functional",
+    "influencer",
+    "marketing",
+    "production",
+    "publishing",
+    "stakeholder"
+   ],
+   "gaps": [
+    "social media",
+    "community",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-08-05T06:35:33-04:00"
+  },
+  {
+   "score": 72,
+   "fit": 45,
+   "title": "Senior Director of Product, Roadmap",
+   "company": "scopely",
+   "location": "CA - Canada; US - United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$223k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5287656008?gh_jid=5287656008",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "launch",
     "live service",
-    "localization",
+    "live-service",
+    "production",
+    "publishing",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-08-27T12:26:48-04:00"
+  },
+  {
+   "score": 71,
+   "fit": 77,
+   "title": "Senior Game Producer - League of Legends, Alternate Play Modes",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8221977?gh_jid=8221977",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "content",
+    "creative",
+    "cross-functional",
+    "milestone",
+    "production",
+    "risk",
+    "roadmap"
+   ],
+   "gaps": [],
+   "posted": "2026-09-25T06:02:52-04:00"
+  },
+  {
+   "score": 70,
+   "fit": 60,
+   "title": "Senior Product Manager, Content Sharing",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$229k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8127058?gh_jid=8127058",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "influencer",
+    "launch",
+    "release",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 69,
+   "fit": 38,
+   "title": "Senior/Principal Product Manager, Video Generation (Roblox Reality) ",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$331k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8180420?gh_jid=8180420",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "launch",
+    "production",
+    "roadmap",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 69,
+   "fit": 38,
+   "title": "Senior Technical Program Manager, Human-in-the-Loop Operations",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Contract",
+   "salary": "$226k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8104285?gh_jid=8104285",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "pipeline",
+    "risk",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "budget",
+    "sql",
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 69,
+   "fit": 38,
+   "title": "Director, Legal Operations",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$160k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5414563008?gh_jid=5414563008",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "risk",
+    "roadmap",
+    "stakeholder",
+    "vendor management",
+    "video"
+   ],
+   "gaps": [
+    "budget",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-02T20:17:13-04:00"
+  },
+  {
+   "score": 69,
+   "fit": 38,
+   "title": "Director of Operations, Slate Development",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States; US - United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$139k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5412693008?gh_jid=5412693008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "launch",
+    "marketing",
+    "production",
+    "publishing",
+    "video"
+   ],
+   "gaps": [
+    "budget",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-10T11:59:50-04:00"
+  },
+  {
+   "score": 69,
+   "fit": 38,
+   "title": " Senior Product Analyst - MONOPOLY GO! ",
+   "company": "scopely",
+   "location": "US - Culver City, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$124k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5409516008?gh_jid=5409516008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "launch",
+    "publishing",
+    "roadmap",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "tableau",
+    "looker",
+    "sql",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-08-28T14:47:27-04:00"
+  },
+  {
+   "score": 68,
+   "fit": 70,
+   "title": "Senior Technical Producer \u2014 Teamfight Tactics,  Core Tech",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8224653?gh_jid=8224653",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "jira",
+    "production",
+    "risk",
     "roadmap",
     "stakeholder"
    ],
    "gaps": [],
-   "posted": null
+   "posted": "2026-09-25T06:05:31-04:00"
+  },
+  {
+   "score": 68,
+   "fit": 36,
+   "title": "Director of Product - Ads Performance",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$383k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/7528249?gh_jid=7528249",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "launch",
+    "marketing",
+    "roadmap"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 68,
+   "fit": 56,
+   "title": "Director, Head of Creative",
+   "company": "twitch",
+   "location": "Los Angeles, CA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$184k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8792843002",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "creative",
+    "cross-functional",
+    "marketing",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-18T17:53:43-04:00"
+  },
+  {
+   "score": 67,
+   "fit": 68,
+   "title": "Player Support Producer lll",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8207247?gh_jid=8207247",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "jira",
+    "launch",
+    "milestone",
+    "production",
+    "risk",
+    "stakeholder"
+   ],
+   "gaps": [],
+   "posted": "2026-09-25T06:00:55-04:00"
+  },
+  {
+   "score": 67,
+   "fit": 68,
+   "title": "Senior Technical Producer - Central Technology, Data Foundations",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8104534?gh_jid=8104534",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "jira",
+    "risk",
+    "stakeholder",
+    "vendor management"
+   ],
+   "gaps": [
+    "budget",
+    "sql"
+   ],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 67,
+   "fit": 34,
+   "title": "Director of Product, Payments and Wallet",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$383k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8231864?gh_jid=8231864",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "launch",
+    "risk",
+    "roadmap"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 67,
+   "fit": 54,
+   "title": "Senior Product Manager, AI Content Safety",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$281k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8035873?gh_jid=8035873",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "launch",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T18:45:59-04:00"
+  },
+  {
+   "score": 66,
+   "fit": 32,
+   "title": "Senior Stock Administrator",
+   "company": "discord",
+   "location": "San Francisco Bay Area or Remote (U.S.)",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$132k\u2013$148k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8757366002",
+   "source": "Greenhouse",
+   "matched": [
+    "release",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-11T19:25:24-04:00"
+  },
+  {
+   "score": 66,
+   "fit": 32,
+   "title": "Senior/Principal Product Manager, Engine Networking",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$281k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8079846?gh_jid=8079846",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "launch",
+    "roadmap"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 66,
+   "fit": 32,
+   "title": "Senior Financial Analyst",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$113k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5424637008?gh_jid=5424637008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "launch",
+    "video"
+   ],
+   "gaps": [
+    "budget",
+    "sql",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-23T22:16:47-04:00"
+  },
+  {
+   "score": 65,
+   "fit": 49,
+   "title": "Director, Quality Assurance",
+   "company": "scopely",
+   "location": "US - Culver City, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$139k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5383261008?gh_jid=5383261008",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "content",
+    "cross-functional",
+    "jira",
+    "pipeline",
+    "publishing",
+    "release",
+    "risk"
+   ],
+   "gaps": [
+    "budget",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-08-25T15:01:41-04:00"
+  },
+  {
+   "score": 65,
+   "fit": 43,
+   "title": "QA Manager, Live Operations",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States; US - United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$99k",
+   "salary_tag": "Near floor",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5411533008?gh_jid=5411533008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "localization",
+    "marketing",
+    "publishing",
+    "release",
+    "risk",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "community",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-10T10:32:36-04:00"
+  },
+  {
+   "score": 63,
+   "fit": 26,
+   "title": "Senior Director, Policy Communications",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States; Washington, District of Columbia, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$294k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8082263?gh_jid=8082263",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "content",
+    "influencer",
+    "release",
+    "risk"
+   ],
+   "gaps": [
+    "social media",
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 62,
+   "fit": 59,
+   "title": "Technical Producer II, Infrastructure - Central Technology",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8234677?gh_jid=8234677",
+   "source": "Greenhouse",
+   "matched": [
+    "launch",
+    "live-service",
+    "risk",
+    "roadmap"
+   ],
+   "gaps": [],
+   "posted": "2026-09-28T13:17:59-04:00"
+  },
+  {
+   "score": 61,
+   "fit": 56,
+   "title": "Sr. Director, Creative Direction - TFT",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8138210?gh_jid=8138210",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "marketing",
+    "production",
+    "publishing"
+   ],
+   "gaps": [
+    "mobile"
+   ],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 60,
+   "fit": 55,
+   "title": "Senior Technical Program Manager - Publishing Platform",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/7723704?gh_jid=7723704",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "creative",
+    "cross-functional",
+    "jira",
+    "launch",
+    "live service",
+    "milestone",
+    "publishing"
+   ],
+   "gaps": [],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 59,
+   "fit": 37,
+   "title": "Brand and Ad Operations Specialist ",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$164k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8171037?gh_jid=8171037",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "cross-functional",
+    "launch",
+    "stakeholder"
+   ],
+   "gaps": [
+    "meta ads",
+    "google ads",
+    "google analytics",
+    "sql",
+    "roas",
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 59,
+   "fit": 34,
+   "title": "Director of Public Policy, UAE/Middle East",
+   "company": "roblox",
+   "location": "Remote",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://careers.roblox.com/jobs/7832171?gh_jid=7832171",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "risk",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T20:07:11-04:00"
+  },
+  {
+   "score": 59,
+   "fit": 38,
+   "title": "Director, Product Management, Consumer Frontend",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$383k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/7913665?gh_jid=7913665",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "launch",
+    "marketing",
+    "milestone",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 58,
+   "fit": 51,
+   "title": "Sr. Community Management Lead - Riftbound",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8194780?gh_jid=8194780",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "content",
+    "creative",
+    "cross-functional",
+    "influencer",
+    "launch",
+    "live-service",
+    "marketing"
+   ],
+   "gaps": [
+    "social media",
+    "community",
+    "pr"
+   ],
+   "posted": "2026-09-18T03:58:26-04:00"
+  },
+  {
+   "score": 58,
+   "fit": 51,
+   "title": "Sr. Manager, Game Production (Production Lead)  - Unpublished R&D Product",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8009376?gh_jid=8009376",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "cross-functional",
+    "launch",
+    "live-service",
+    "milestone",
+    "production",
+    "publishing"
+   ],
+   "gaps": [],
+   "posted": "2026-09-08T17:16:56-04:00"
+  },
+  {
+   "score": 58,
+   "fit": 36,
+   "title": "Senior Product Manager, Developer Monetization and Wallets",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$281k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8219437?gh_jid=8219437",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "launch",
+    "release",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 58,
+   "fit": 30,
+   "title": "Licensing Operations Coordinator",
+   "company": "scopely",
+   "location": "CA - Canada",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5413072008?gh_jid=5413072008",
+   "source": "Greenhouse",
+   "matched": [
+    "airtable",
+    "campaign",
+    "content",
+    "creative",
+    "cross-functional",
+    "jira",
+    "live-service",
+    "marketing"
+   ],
+   "gaps": [
+    "crm",
+    "community",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-01T15:36:27-04:00"
+  },
+  {
+   "score": 58,
+   "fit": 36,
+   "title": "Senior Technology Auditor",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$113k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5412856008?gh_jid=5412856008",
+   "source": "Greenhouse",
+   "matched": [
+    "pipeline",
+    "release",
+    "risk",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "sql",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-04T23:36:56-04:00"
+  },
+  {
+   "score": 57,
+   "fit": 34,
+   "title": "[2027] Associate Product Manager, Early Career",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$143k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8143976?gh_jid=8143976",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "marketing",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community",
+    "mobile"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 57,
+   "fit": 34,
+   "title": "Senior Manager, Global Compensation Programs",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$138k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5416591008?gh_jid=5416591008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "publishing",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-04T11:48:34-04:00"
+  },
+  {
+   "score": 57,
+   "fit": 34,
+   "title": "Senior Product Manager, Commerce",
+   "company": "twitch",
+   "location": "Irvine, CA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$151k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8843933002",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "sql",
+    "community",
+    "mobile"
+   ],
+   "posted": "2026-09-25T11:30:43-04:00"
+  },
+  {
+   "score": 55,
+   "fit": 45,
+   "title": "Sr. Manager, Audio Direction - Unpublished R&D Product",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/7404513?gh_jid=7404513",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "jira",
+    "launch",
+    "milestone",
+    "perforce",
+    "pipeline",
+    "production"
+   ],
+   "gaps": [],
+   "posted": "2026-09-28T17:38:38-04:00"
+  },
+  {
+   "score": 55,
+   "fit": 45,
+   "title": "Sr. Manager, Game Production - Unpublished R&D Product",
+   "company": "riotgames",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8157992?gh_jid=8157992",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "cross-functional",
+    "jira",
+    "milestone",
+    "pipeline",
+    "production",
+    "risk"
+   ],
+   "gaps": [],
+   "posted": "2026-09-08T16:51:10-04:00"
+  },
+  {
+   "score": 55,
+   "fit": 29,
+   "title": "Principal Product Manager, Subscriptions",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$331k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8219433?gh_jid=8219433",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "roadmap"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 55,
+   "fit": 29,
+   "title": "Technical Director - AI Roblox Studio",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$399k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8046794?gh_jid=8046794",
+   "source": "Greenhouse",
+   "matched": [
+    "pipeline",
+    "production"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 54,
+   "fit": 43,
+   "title": "Principal Publishing Product Manager \u2013 Unpublished R&D Product",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8129452?gh_jid=8129452",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "launch",
+    "live-service",
+    "production",
+    "publishing",
+    "risk",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 54,
+   "fit": 43,
+   "title": "Senior Technical Product Manager - Publishing Platform, Organized Play",
+   "company": "riotgames",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8120734?gh_jid=8120734",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "live service",
+    "milestone",
+    "publishing",
+    "release",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 54,
+   "fit": 28,
+   "title": "Localization Program Manager",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$167k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/7813041?gh_jid=7813041",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "localization",
+    "production",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 54,
+   "fit": 27,
+   "title": "User Researcher",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$159k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8070133?gh_jid=8070133",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "marketing",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "sql",
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 53,
+   "fit": 40,
+   "title": "Senior Technical Product Manager, SDK Social - Publishing Platform",
+   "company": "riotgames",
+   "location": "Los Angeles, USA; Mercer Island, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8017695?gh_jid=8017695",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "creative",
+    "cross-functional",
+    "launch",
+    "publishing",
+    "roadmap",
+    "scrum"
+   ],
+   "gaps": [],
+   "posted": "2026-09-22T19:24:56-04:00"
+  },
+  {
+   "score": 53,
+   "fit": 26,
+   "title": "Director of Business Development, Payments",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$276k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/7604271?gh_jid=7604271",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "milestone",
+    "risk",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 53,
+   "fit": 26,
+   "title": "Revenue Operations Manager",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$199k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8171039?gh_jid=8171039",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "cross-functional",
+    "pipeline",
+    "risk",
+    "stakeholder"
+   ],
+   "gaps": [
+    "sql",
+    "crm",
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 53,
+   "fit": 26,
+   "title": " Senior Director, Privacy, Product and Platform Security ",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$458k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8168155?gh_jid=8168155",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "production",
+    "risk",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-09-29T16:09:38-04:00"
+  },
+  {
+   "score": 52,
+   "fit": 38,
+   "title": "Principal Technical Product Manager - VALORANT, Developer Tooling",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8221969?gh_jid=8221969",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "milestone",
+    "pipeline",
+    "release",
+    "roadmap"
+   ],
+   "gaps": [],
+   "posted": "2026-09-24T18:02:24-04:00"
+  },
+  {
+   "score": 52,
+   "fit": 38,
+   "title": "Publishing Product Manager, Americas",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8128657?gh_jid=8128657",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "marketing",
+    "publishing",
+    "risk",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community",
+    "console"
+   ],
+   "posted": "2026-09-08T09:02:05-04:00"
+  },
+  {
+   "score": 52,
+   "fit": 38,
+   "title": "Senior Art Outsourcing Manager, Weapon Concept - VALORANT, Skins",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8003925?gh_jid=8003925",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "pipeline",
+    "production",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [],
+   "posted": "2026-09-04T14:08:07-04:00"
+  },
+  {
+   "score": 51,
+   "fit": 36,
+   "title": "Director, Art Direction - Unpublished R&D Product",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/7984204?gh_jid=7984204",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "live-service",
+    "pipeline",
+    "production"
+   ],
+   "gaps": [],
+   "posted": "2026-09-25T19:36:37-04:00"
+  },
+  {
+   "score": 51,
+   "fit": 36,
+   "title": "Principal Insights Analyst, AXE - Teamfight Tactics",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/7592030?gh_jid=7592030",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "live service",
+    "publishing",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 50,
+   "fit": 34,
+   "title": "Manager, Narrative Writing - League of Legends",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8187620?gh_jid=8187620",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "release",
+    "stakeholder"
+   ],
+   "gaps": [],
+   "posted": "2026-09-25T05:57:48-04:00"
+  },
+  {
+   "score": 50,
+   "fit": 34,
+   "title": "Principal Technical Product Manager - VALORANT, AI/ML ",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/7782357?gh_jid=7782357",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "milestone",
+    "roadmap"
+   ],
+   "gaps": [],
+   "posted": "2026-09-22T13:05:27-04:00"
+  },
+  {
+   "score": 49,
+   "fit": 32,
+   "title": "Principal Insights Analyst - Central Product Insights",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8148781?gh_jid=8148781",
+   "source": "Greenhouse",
+   "matched": [
+    "live-service",
+    "production",
+    "stakeholder"
+   ],
+   "gaps": [
+    "tableau",
+    "sql",
+    "cpi"
+   ],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 49,
+   "fit": 32,
+   "title": "Sr. Principal Insights Analyst - Central Product Insights",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/7940524?gh_jid=7940524",
+   "source": "Greenhouse",
+   "matched": [
+    "pipeline",
+    "production",
+    "stakeholder"
+   ],
+   "gaps": [
+    "tableau",
+    "sql",
+    "cpi"
+   ],
+   "posted": "2026-09-04T14:23:48-04:00"
+  },
+  {
+   "score": 47,
+   "fit": 29,
+   "title": "Manager, Technical Game Design - Teamfight Tactics",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8124195?gh_jid=8124195",
+   "source": "Greenhouse",
+   "matched": [
+    "live service",
+    "roadmap"
+   ],
+   "gaps": [],
+   "posted": "2026-09-04T13:52:59-04:00"
+  },
+  {
+   "score": 46,
+   "fit": 27,
+   "title": "Manager, Visual Design Art - TFT",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8163225?gh_jid=8163225",
+   "source": "Greenhouse",
+   "matched": [
+    "production"
+   ],
+   "gaps": [
+    "figma"
+   ],
+   "posted": "2026-09-11T02:14:21-04:00"
+  },
+  {
+   "score": 46,
+   "fit": 27,
+   "title": "Revenue Accounting Manager",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8160864?gh_jid=8160864",
+   "source": "Greenhouse",
+   "matched": [
+    "risk"
+   ],
+   "gaps": [],
+   "posted": "2026-09-11T02:12:40-04:00"
   }
  ]
 }
