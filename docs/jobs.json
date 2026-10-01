@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-30T16:43:16+00:00",
- "count": 76,
+ "updated": "2026-10-01T14:12:50+00:00",
+ "count": 79,
  "jobs": [
   {
    "score": 100,
@@ -89,7 +89,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-09-30T02:35:39-04:00"
+   "posted": "2026-10-01T02:35:54-04:00"
   },
   {
    "score": 86,
@@ -119,7 +119,7 @@
     "ltv",
     "community"
    ],
-   "posted": "2026-09-30T02:38:52-04:00"
+   "posted": "2026-10-01T02:39:05-04:00"
   },
   {
    "score": 86,
@@ -182,31 +182,33 @@
   },
   {
    "score": 80,
-   "fit": 74,
-   "title": "Marathon Producer (Contract)",
-   "company": "bungie",
-   "location": "United States, Remote",
+   "fit": 75,
+   "title": "Marketing Manager, MENAT",
+   "company": "roblox",
+   "location": "Remote",
    "mode": "Remote",
    "org": "Studio/Publisher",
-   "type": "Contract",
-   "salary": "$104k (converted from hourly)",
-   "salary_tag": "Near floor",
-   "url": "https://job-boards.greenhouse.io/bungie/jobs/6193604004",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://careers.roblox.com/jobs/8230980?gh_jid=8230980",
    "source": "Greenhouse",
    "matched": [
+    "agile",
     "content",
-    "creative",
-    "jira",
-    "live-service",
-    "milestone",
-    "miro",
-    "pipeline",
-    "production"
+    "influencer",
+    "launch",
+    "localization",
+    "marketing",
+    "stakeholder"
    ],
    "gaps": [
-    "budget"
+    "budget",
+    "social media",
+    "community",
+    "mobile"
    ],
-   "posted": "2026-09-18T16:43:20-04:00"
+   "posted": "2026-10-01T04:58:46-04:00"
   },
   {
    "score": 78,
@@ -236,7 +238,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-09-30T02:32:45-04:00"
+   "posted": "2026-10-01T02:33:05-04:00"
   },
   {
    "score": 77,
@@ -289,7 +291,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:34:35-04:00"
+   "posted": "2026-10-01T02:34:52-04:00"
   },
   {
    "score": 75,
@@ -350,12 +352,12 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-09-30T02:32:38-04:00"
+   "posted": "2026-10-01T02:33:00-04:00"
   },
   {
    "score": 73,
    "fit": 81,
-   "title": "Principal Creative Director, Growth Marketing",
+   "title": "Principal Creative Director, Growth Marketing & Lifecycle ",
    "company": "riotgames",
    "location": "Los Angeles, USA",
    "mode": "On-site",
@@ -380,7 +382,7 @@
     "creative testing",
     "mobile"
    ],
-   "posted": "2026-09-25T13:02:12-04:00"
+   "posted": "2026-09-30T18:16:42-04:00"
   },
   {
    "score": 73,
@@ -489,7 +491,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-09-30T02:33:25-04:00"
+   "posted": "2026-10-01T02:33:45-04:00"
   },
   {
    "score": 72,
@@ -602,7 +604,57 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:35:44-04:00"
+   "posted": "2026-10-01T02:35:59-04:00"
+  },
+  {
+   "score": 70,
+   "fit": 40,
+   "title": "Lead Researcher- Unannounced Title",
+   "company": "scopely",
+   "location": "US - United States",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$170k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5226597008?gh_jid=5226597008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "live-service",
+    "marketing",
+    "production",
+    "roadmap",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "sql",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-09-30T14:25:53-04:00"
+  },
+  {
+   "score": 69,
+   "fit": 72,
+   "title": "Senior User Acquisition Specialist",
+   "company": "Jam City",
+   "location": "Culver City, Los Angeles County",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.adzuna.com/land/ad/5896372479?se=WOIqLqK98RGohKaPAjVzqg&utm_medium=api&utm_source=8376de0d&v=5396C80731E3B9801F4C46D9B9E9D99220DDF77C",
+   "source": "Adzuna",
+   "matched": [
+    "user acquisition"
+   ],
+   "gaps": [
+    "mobile"
+   ],
+   "posted": "2026-09-24T01:50:10Z"
   },
   {
    "score": 69,
@@ -628,7 +680,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:32:55-04:00"
+   "posted": "2026-10-01T02:33:15-04:00"
   },
   {
    "score": 69,
@@ -763,7 +815,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:44:26-04:00"
+   "posted": "2026-10-01T02:44:40-04:00"
   },
   {
    "score": 68,
@@ -864,7 +916,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:30:39-04:00"
+   "posted": "2026-10-01T02:31:02-04:00"
   },
   {
    "score": 67,
@@ -888,7 +940,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:41:04-04:00"
+   "posted": "2026-10-01T02:41:05-04:00"
   },
   {
    "score": 66,
@@ -934,7 +986,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:36:54-04:00"
+   "posted": "2026-10-01T02:37:04-04:00"
   },
   {
    "score": 66,
@@ -1023,6 +1075,30 @@
    "posted": "2026-09-10T10:32:36-04:00"
   },
   {
+   "score": 64,
+   "fit": 63,
+   "title": "Technical Producer II - League of Legends, Tech & Tools",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8241802?gh_jid=8241802",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "jira",
+    "live service",
+    "production",
+    "roadmap",
+    "scrum"
+   ],
+   "gaps": [],
+   "posted": "2026-09-30T19:37:45-04:00"
+  },
+  {
    "score": 63,
    "fit": 26,
    "title": "Senior Director, Policy Communications",
@@ -1046,7 +1122,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-09-30T02:36:52-04:00"
+   "posted": "2026-10-01T02:37:01-04:00"
   },
   {
    "score": 62,
@@ -1148,7 +1224,7 @@
     "roas",
     "community"
    ],
-   "posted": "2026-09-30T02:33:33-04:00"
+   "posted": "2026-10-01T02:33:53-04:00"
   },
   {
    "score": 59,
@@ -1172,7 +1248,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:44:28-04:00"
+   "posted": "2026-10-01T02:44:42-04:00"
   },
   {
    "score": 59,
@@ -1200,7 +1276,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-09-30T02:41:15-04:00"
+   "posted": "2026-10-01T02:41:21-04:00"
   },
   {
    "score": 58,
@@ -1281,7 +1357,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:31:26-04:00"
+   "posted": "2026-10-01T02:31:53-04:00"
   },
   {
    "score": 58,
@@ -1364,7 +1440,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-09-30T02:34:17-04:00"
+   "posted": "2026-10-01T02:34:33-04:00"
   },
   {
    "score": 57,
@@ -1467,7 +1543,7 @@
     "risk"
    ],
    "gaps": [],
-   "posted": "2026-09-08T16:51:10-04:00"
+   "posted": "2026-09-30T13:31:44-04:00"
   },
   {
    "score": 55,
@@ -1489,7 +1565,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:31:24-04:00"
+   "posted": "2026-10-01T02:31:51-04:00"
   },
   {
    "score": 55,
@@ -1511,7 +1587,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:40:53-04:00"
+   "posted": "2026-10-01T02:40:54-04:00"
   },
   {
    "score": 54,
@@ -1567,7 +1643,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-09-30T19:16:39-04:00"
   },
   {
    "score": 54,
@@ -1593,7 +1669,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:42:09-04:00"
+   "posted": "2026-10-01T02:42:13-04:00"
   },
   {
    "score": 54,
@@ -1618,7 +1694,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-09-30T02:37:58-04:00"
+   "posted": "2026-10-01T02:38:09-04:00"
   },
   {
    "score": 53,
@@ -1668,7 +1744,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:43:26-04:00"
+   "posted": "2026-10-01T02:43:33-04:00"
   },
   {
    "score": 53,
@@ -1695,7 +1771,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-09-30T02:33:35-04:00"
+   "posted": "2026-10-01T02:33:55-04:00"
   },
   {
    "score": 53,
@@ -1720,7 +1796,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T02:33:19-04:00"
+   "posted": "2026-10-01T02:33:39-04:00"
   },
   {
    "score": 52,
