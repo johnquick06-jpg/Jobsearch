@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-02T17:29:13+00:00",
- "count": 76,
+ "updated": "2026-10-03T18:28:53+00:00",
+ "count": 75,
  "jobs": [
   {
    "score": 100,
@@ -89,7 +89,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-02T02:36:17-04:00"
+   "posted": "2026-10-02T14:36:55-04:00"
   },
   {
    "score": 86,
@@ -119,7 +119,7 @@
     "ltv",
     "community"
    ],
-   "posted": "2026-10-02T02:39:24-04:00"
+   "posted": "2026-10-02T14:40:04-04:00"
   },
   {
    "score": 86,
@@ -209,7 +209,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-02T02:33:14-04:00"
+   "posted": "2026-10-02T14:33:46-04:00"
   },
   {
    "score": 77,
@@ -262,7 +262,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:35:12-04:00"
+   "posted": "2026-10-02T14:35:43-04:00"
   },
   {
    "score": 75,
@@ -323,7 +323,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-02T02:33:11-04:00"
+   "posted": "2026-10-02T14:33:44-04:00"
   },
   {
    "score": 73,
@@ -381,7 +381,7 @@
    "gaps": [
     "mobile"
    ],
-   "posted": "2026-10-01T23:50:43-04:00"
+   "posted": "2026-10-02T17:02:19-04:00"
   },
   {
    "score": 73,
@@ -462,7 +462,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-02T02:33:54-04:00"
+   "posted": "2026-10-02T14:34:28-04:00"
   },
   {
    "score": 72,
@@ -575,7 +575,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:36:22-04:00"
+   "posted": "2026-10-02T14:37:00-04:00"
   },
   {
    "score": 70,
@@ -630,7 +630,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:33:24-04:00"
+   "posted": "2026-10-02T14:33:57-04:00"
   },
   {
    "score": 69,
@@ -765,7 +765,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:44:24-04:00"
+   "posted": "2026-10-02T14:45:35-04:00"
   },
   {
    "score": 68,
@@ -820,6 +820,38 @@
   },
   {
    "score": 67,
+   "fit": 69,
+   "title": "Senior Brand Manager",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8247937?gh_jid=8247937",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "creative",
+    "cross-functional",
+    "influencer",
+    "launch",
+    "live-service",
+    "marketing",
+    "production"
+   ],
+   "gaps": [
+    "budget",
+    "community",
+    "brand strategy",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-10-02T14:03:57-04:00"
+  },
+  {
+   "score": 67,
    "fit": 68,
    "title": "Senior Technical Producer - Central Technology, Data Foundations",
    "company": "riotgames",
@@ -866,7 +898,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:31:18-04:00"
+   "posted": "2026-10-02T14:31:34-04:00"
   },
   {
    "score": 67,
@@ -893,7 +925,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-02T02:39:19-04:00"
+   "posted": "2026-10-02T14:39:59-04:00"
   },
   {
    "score": 66,
@@ -939,7 +971,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:37:30-04:00"
+   "posted": "2026-10-02T14:38:04-04:00"
   },
   {
    "score": 66,
@@ -1075,7 +1107,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-02T02:37:28-04:00"
+   "posted": "2026-10-02T14:38:02-04:00"
   },
   {
    "score": 62,
@@ -1152,35 +1184,6 @@
   },
   {
    "score": 59,
-   "fit": 37,
-   "title": "Brand and Ad Operations Specialist ",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$164k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8171037?gh_jid=8171037",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "cross-functional",
-    "launch",
-    "stakeholder"
-   ],
-   "gaps": [
-    "meta ads",
-    "google ads",
-    "google analytics",
-    "sql",
-    "roas",
-    "community"
-   ],
-   "posted": "2026-10-02T02:34:04-04:00"
-  },
-  {
-   "score": 59,
    "fit": 34,
    "title": "Director of Public Policy, UAE/Middle East",
    "company": "roblox",
@@ -1201,7 +1204,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:44:26-04:00"
+   "posted": "2026-10-02T14:45:37-04:00"
   },
   {
    "score": 59,
@@ -1229,7 +1232,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-02T02:41:24-04:00"
+   "posted": "2026-10-02T14:42:18-04:00"
   },
   {
    "score": 58,
@@ -1310,7 +1313,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:32:02-04:00"
+   "posted": "2026-10-02T14:32:30-04:00"
   },
   {
    "score": 58,
@@ -1393,7 +1396,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-02T02:34:54-04:00"
+   "posted": "2026-10-02T14:35:23-04:00"
   },
   {
    "score": 57,
@@ -1493,7 +1496,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:32:00-04:00"
+   "posted": "2026-10-02T14:32:28-04:00"
   },
   {
    "score": 55,
@@ -1515,7 +1518,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:41:04-04:00"
+   "posted": "2026-10-02T14:41:56-04:00"
   },
   {
    "score": 54,
@@ -1597,7 +1600,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:42:11-04:00"
+   "posted": "2026-10-02T14:43:10-04:00"
   },
   {
    "score": 54,
@@ -1622,7 +1625,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-10-02T02:38:35-04:00"
+   "posted": "2026-10-02T14:39:13-04:00"
   },
   {
    "score": 53,
@@ -1672,7 +1675,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:43:28-04:00"
+   "posted": "2026-10-02T14:44:32-04:00"
   },
   {
    "score": 53,
@@ -1699,7 +1702,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-10-02T02:34:07-04:00"
+   "posted": "2026-10-02T14:34:40-04:00"
   },
   {
    "score": 53,
@@ -1724,7 +1727,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-02T02:33:48-04:00"
+   "posted": "2026-10-02T14:34:22-04:00"
   },
   {
    "score": 52,
@@ -1868,28 +1871,6 @@
    ],
    "gaps": [],
    "posted": "2026-09-25T05:57:48-04:00"
-  },
-  {
-   "score": 50,
-   "fit": 34,
-   "title": "Principal Technical Product Manager - VALORANT, AI/ML ",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/7782357?gh_jid=7782357",
-   "source": "Greenhouse",
-   "matched": [
-    "creative",
-    "cross-functional",
-    "milestone",
-    "roadmap"
-   ],
-   "gaps": [],
-   "posted": "2026-09-22T13:05:27-04:00"
   },
   {
    "score": 49,
