@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-05T14:14:13+00:00",
- "count": 75,
+ "updated": "2026-10-06T14:13:02+00:00",
+ "count": 76,
  "jobs": [
   {
    "score": 100,
@@ -89,7 +89,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-05T02:36:06-04:00"
+   "posted": "2026-10-06T02:36:34-04:00"
   },
   {
    "score": 86,
@@ -119,7 +119,7 @@
     "ltv",
     "community"
    ],
-   "posted": "2026-10-05T02:39:02-04:00"
+   "posted": "2026-10-06T02:39:26-04:00"
   },
   {
    "score": 86,
@@ -209,7 +209,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-05T02:33:19-04:00"
+   "posted": "2026-10-06T02:33:38-04:00"
   },
   {
    "score": 77,
@@ -262,7 +262,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:35:01-04:00"
+   "posted": "2026-10-06T02:35:29-04:00"
   },
   {
    "score": 75,
@@ -323,7 +323,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-05T02:33:17-04:00"
+   "posted": "2026-10-06T02:33:36-04:00"
   },
   {
    "score": 73,
@@ -462,7 +462,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-05T02:33:56-04:00"
+   "posted": "2026-10-06T02:34:19-04:00"
   },
   {
    "score": 72,
@@ -552,6 +552,34 @@
   },
   {
    "score": 70,
+   "fit": 74,
+   "title": "Technical Producer II - VALORANT, Developer Experience",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8247935?gh_jid=8247935",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "content",
+    "jira",
+    "live-service",
+    "milestone",
+    "production",
+    "release",
+    "risk"
+   ],
+   "gaps": [
+    "playable"
+   ],
+   "posted": "2026-10-05T15:12:04-04:00"
+  },
+  {
+   "score": 70,
    "fit": 60,
    "title": "Senior Product Manager, Content Sharing",
    "company": "roblox",
@@ -575,7 +603,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:36:10-04:00"
+   "posted": "2026-10-06T02:36:39-04:00"
   },
   {
    "score": 70,
@@ -630,7 +658,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:33:29-04:00"
+   "posted": "2026-10-06T02:33:49-04:00"
   },
   {
    "score": 69,
@@ -765,7 +793,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:43:57-04:00"
+   "posted": "2026-10-06T02:44:21-04:00"
   },
   {
    "score": 68,
@@ -898,7 +926,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:31:20-04:00"
+   "posted": "2026-10-06T02:31:34-04:00"
   },
   {
    "score": 67,
@@ -925,7 +953,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-05T02:38:57-04:00"
+   "posted": "2026-10-06T02:39:22-04:00"
   },
   {
    "score": 66,
@@ -971,7 +999,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:37:07-04:00"
+   "posted": "2026-10-06T02:37:40-04:00"
   },
   {
    "score": 66,
@@ -998,36 +1026,6 @@
     "mobile"
    ],
    "posted": "2026-09-23T22:16:47-04:00"
-  },
-  {
-   "score": 65,
-   "fit": 49,
-   "title": "Director, Quality Assurance",
-   "company": "scopely",
-   "location": "US - Culver City, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$139k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/scopely/jobs/5383261008?gh_jid=5383261008",
-   "source": "Greenhouse",
-   "matched": [
-    "agile",
-    "content",
-    "cross-functional",
-    "jira",
-    "pipeline",
-    "publishing",
-    "release",
-    "risk"
-   ],
-   "gaps": [
-    "budget",
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-08-25T15:01:41-04:00"
   },
   {
    "score": 65,
@@ -1085,6 +1083,31 @@
   },
   {
    "score": 63,
+   "fit": 60,
+   "title": "Senior Program Manager (Brand Partnerships)",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8244020?gh_jid=8244020",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "marketing",
+    "milestone",
+    "pipeline",
+    "publishing",
+    "risk",
+    "stakeholder"
+   ],
+   "gaps": [],
+   "posted": "2026-10-05T16:19:56-04:00"
+  },
+  {
+   "score": 63,
    "fit": 26,
    "title": "Senior Director, Policy Communications",
    "company": "roblox",
@@ -1107,7 +1130,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-05T02:37:05-04:00"
+   "posted": "2026-10-06T02:37:38-04:00"
   },
   {
    "score": 62,
@@ -1204,7 +1227,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:43:59-04:00"
+   "posted": "2026-10-06T02:44:23-04:00"
   },
   {
    "score": 59,
@@ -1232,7 +1255,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-05T02:40:58-04:00"
+   "posted": "2026-10-06T02:41:23-04:00"
   },
   {
    "score": 58,
@@ -1313,7 +1336,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:32:12-04:00"
+   "posted": "2026-10-06T02:32:29-04:00"
   },
   {
    "score": 58,
@@ -1396,7 +1419,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-05T02:34:44-04:00"
+   "posted": "2026-10-06T02:35:10-04:00"
   },
   {
    "score": 57,
@@ -1496,7 +1519,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:32:10-04:00"
+   "posted": "2026-10-06T02:32:27-04:00"
   },
   {
    "score": 55,
@@ -1518,7 +1541,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:40:37-04:00"
+   "posted": "2026-10-06T02:41:02-04:00"
   },
   {
    "score": 54,
@@ -1600,7 +1623,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:41:44-04:00"
+   "posted": "2026-10-06T02:42:11-04:00"
   },
   {
    "score": 54,
@@ -1625,7 +1648,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-10-05T02:38:15-04:00"
+   "posted": "2026-10-06T02:38:41-04:00"
   },
   {
    "score": 53,
@@ -1675,7 +1698,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:43:02-04:00"
+   "posted": "2026-10-06T02:43:26-04:00"
   },
   {
    "score": 53,
@@ -1702,7 +1725,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-10-05T02:34:06-04:00"
+   "posted": "2026-10-06T02:34:29-04:00"
   },
   {
    "score": 53,
@@ -1727,7 +1750,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-05T02:33:50-04:00"
+   "posted": "2026-10-06T02:34:12-04:00"
   },
   {
    "score": 52,
@@ -1779,30 +1802,6 @@
     "console"
    ],
    "posted": "2026-09-08T09:02:05-04:00"
-  },
-  {
-   "score": 52,
-   "fit": 38,
-   "title": "Senior Art Outsourcing Manager, Weapon Concept - VALORANT, Skins",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8003925?gh_jid=8003925",
-   "source": "Greenhouse",
-   "matched": [
-    "content",
-    "creative",
-    "pipeline",
-    "production",
-    "stakeholder",
-    "video"
-   ],
-   "gaps": [],
-   "posted": "2026-09-04T14:08:07-04:00"
   },
   {
    "score": 51,
@@ -1871,6 +1870,28 @@
    ],
    "gaps": [],
    "posted": "2026-09-25T05:57:48-04:00"
+  },
+  {
+   "score": 50,
+   "fit": 34,
+   "title": "Technical Art Lead, Rigging - VALORANT, Agents",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8227587?gh_jid=8227587",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "pipeline",
+    "production"
+   ],
+   "gaps": [],
+   "posted": "2026-10-05T15:59:34-04:00"
   },
   {
    "score": 49,
