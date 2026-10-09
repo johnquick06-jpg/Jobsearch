@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-08T14:13:00+00:00",
- "count": 75,
+ "updated": "2026-10-09T14:12:36+00:00",
+ "count": 73,
  "jobs": [
   {
    "score": 98,
@@ -57,7 +57,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-08T02:36:49-04:00"
+   "posted": "2026-10-09T02:37:22-04:00"
   },
   {
    "score": 86,
@@ -87,7 +87,7 @@
     "ltv",
     "community"
    ],
-   "posted": "2026-10-08T02:39:41-04:00"
+   "posted": "2026-10-09T02:40:09-04:00"
   },
   {
    "score": 86,
@@ -177,7 +177,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-08T02:33:57-04:00"
+   "posted": "2026-10-09T02:34:22-04:00"
   },
   {
    "score": 77,
@@ -205,7 +205,7 @@
    "gaps": [
     "figma"
    ],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 76,
@@ -230,7 +230,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:35:46-04:00"
+   "posted": "2026-10-09T02:36:21-04:00"
   },
   {
    "score": 75,
@@ -291,7 +291,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-08T02:33:55-04:00"
+   "posted": "2026-10-09T02:34:20-04:00"
   },
   {
    "score": 73,
@@ -321,7 +321,7 @@
     "creative testing",
     "mobile"
    ],
-   "posted": "2026-10-01T23:48:18-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 73,
@@ -349,7 +349,7 @@
    "gaps": [
     "mobile"
    ],
-   "posted": "2026-10-02T17:02:19-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 73,
@@ -401,7 +401,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-09-23T17:15:02-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 72,
@@ -430,7 +430,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-08T02:34:36-04:00"
+   "posted": "2026-10-09T02:35:01-04:00"
   },
   {
    "score": 72,
@@ -518,7 +518,7 @@
    "gaps": [
     "playable"
    ],
-   "posted": "2026-10-05T15:12:04-04:00"
+   "posted": "2026-10-08T20:17:26-04:00"
   },
   {
    "score": 70,
@@ -545,7 +545,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:36:53-04:00"
+   "posted": "2026-10-09T02:37:26-04:00"
   },
   {
    "score": 70,
@@ -578,27 +578,6 @@
   },
   {
    "score": 69,
-   "fit": 72,
-   "title": "Senior User Acquisition Specialist",
-   "company": "Jam City",
-   "location": "Culver City, Los Angeles County",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.adzuna.com/land/ad/5915051175?se=uKQXXSLD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=8376de0d&v=74F26C1A89A20D2A0E223598C0AEFE58D6BE473D",
-   "source": "Adzuna",
-   "matched": [
-    "user acquisition"
-   ],
-   "gaps": [
-    "mobile"
-   ],
-   "posted": "2026-10-06T22:41:13Z"
-  },
-  {
-   "score": 69,
    "fit": 38,
    "title": "Senior/Principal Product Manager, Video Generation (Roblox Reality) ",
    "company": "roblox",
@@ -621,7 +600,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:34:07-04:00"
+   "posted": "2026-10-09T02:34:32-04:00"
   },
   {
    "score": 69,
@@ -731,7 +710,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-09-25T06:05:31-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 68,
@@ -756,7 +735,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:44:36-04:00"
+   "posted": "2026-10-09T02:45:15-04:00"
   },
   {
    "score": 68,
@@ -813,33 +792,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-02T14:03:57-04:00"
-  },
-  {
-   "score": 67,
-   "fit": 68,
-   "title": "Senior Technical Producer - Central Technology, Data Foundations",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8104534?gh_jid=8104534",
-   "source": "Greenhouse",
-   "matched": [
-    "creative",
-    "jira",
-    "risk",
-    "stakeholder",
-    "vendor management"
-   ],
-   "gaps": [
-    "budget",
-    "sql"
-   ],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-10-08T20:16:50-04:00"
   },
   {
    "score": 67,
@@ -863,7 +816,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:31:57-04:00"
+   "posted": "2026-10-09T02:32:07-04:00"
   },
   {
    "score": 67,
@@ -890,7 +843,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-08T02:39:36-04:00"
+   "posted": "2026-10-09T02:40:04-04:00"
   },
   {
    "score": 66,
@@ -936,7 +889,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:38:05-04:00"
+   "posted": "2026-10-09T02:38:33-04:00"
   },
   {
    "score": 66,
@@ -1016,7 +969,7 @@
     "scrum"
    ],
    "gaps": [],
-   "posted": "2026-10-01T23:52:51-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 63,
@@ -1041,7 +994,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-10-05T16:19:56-04:00"
+   "posted": "2026-10-08T20:15:31-04:00"
   },
   {
    "score": 63,
@@ -1067,7 +1020,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-08T02:38:03-04:00"
+   "posted": "2026-10-09T02:38:30-04:00"
   },
   {
    "score": 63,
@@ -1097,7 +1050,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-08T02:42:49-04:00"
+   "posted": "2026-10-09T02:43:16-04:00"
   },
   {
    "score": 62,
@@ -1119,7 +1072,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-10-01T23:52:17-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 61,
@@ -1144,7 +1097,7 @@
    "gaps": [
     "mobile"
    ],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 60,
@@ -1170,7 +1123,7 @@
     "publishing"
    ],
    "gaps": [],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 59,
@@ -1194,7 +1147,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:44:38-04:00"
+   "posted": "2026-10-09T02:45:17-04:00"
   },
   {
    "score": 59,
@@ -1222,7 +1175,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-08T02:41:41-04:00"
+   "posted": "2026-10-09T02:42:14-04:00"
   },
   {
    "score": 58,
@@ -1252,7 +1205,7 @@
     "community",
     "pr"
    ],
-   "posted": "2026-09-18T03:58:26-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 58,
@@ -1278,7 +1231,7 @@
     "publishing"
    ],
    "gaps": [],
-   "posted": "2026-09-08T17:16:56-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 58,
@@ -1303,7 +1256,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:32:50-04:00"
+   "posted": "2026-10-09T02:33:08-04:00"
   },
   {
    "score": 58,
@@ -1386,7 +1339,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-08T02:35:28-04:00"
+   "posted": "2026-10-09T02:35:57-04:00"
   },
   {
    "score": 57,
@@ -1416,27 +1369,31 @@
   },
   {
    "score": 56,
-   "fit": 32,
-   "title": "Senior Product Manager, Roblox Conversational Platform",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
+   "fit": 31,
+   "title": "MBA Rotational Program - Summer 2027",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
    "mode": "On-site",
    "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "$281k",
+   "salary": "$175k",
    "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8250391?gh_jid=8250391",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8238328?gh_jid=8238328",
    "source": "Greenhouse",
    "matched": [
+    "creative",
     "cross-functional",
-    "production",
+    "live service",
+    "pipeline",
+    "publishing",
     "stakeholder"
    ],
    "gaps": [
-    "community",
-    "mobile"
+    "tableau",
+    "looker",
+    "sql"
    ],
-   "posted": "2026-10-08T02:30:43-04:00"
+   "posted": "2026-10-08T21:33:21-04:00"
   },
   {
    "score": 55,
@@ -1462,7 +1419,7 @@
     "production"
    ],
    "gaps": [],
-   "posted": "2026-09-28T17:38:38-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 55,
@@ -1484,7 +1441,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:32:48-04:00"
+   "posted": "2026-10-09T02:33:03-04:00"
   },
   {
    "score": 55,
@@ -1506,12 +1463,12 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:41:20-04:00"
+   "posted": "2026-10-09T02:41:51-04:00"
   },
   {
    "score": 54,
    "fit": 43,
-   "title": "Principal Publishing Product Manager \u2013 Unpublished R&D Product",
+   "title": "Principal, Growth Lead - League of Legends",
    "company": "riotgames",
    "location": "Los Angeles, USA",
    "mode": "On-site",
@@ -1519,22 +1476,22 @@
    "type": "Full-time",
    "salary": "Unlisted",
    "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8129452?gh_jid=8129452",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8257953?gh_jid=8257953",
    "source": "Greenhouse",
    "matched": [
+    "campaign",
+    "creative",
     "cross-functional",
-    "launch",
-    "live-service",
-    "production",
+    "marketing",
+    "performance marketing",
     "publishing",
-    "risk",
     "roadmap",
     "stakeholder"
    ],
    "gaps": [
-    "community"
+    "crm"
    ],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-10-08T20:20:50-04:00"
   },
   {
    "score": 54,
@@ -1562,7 +1519,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-09-30T19:16:39-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 54,
@@ -1588,32 +1545,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:42:31-04:00"
-  },
-  {
-   "score": 54,
-   "fit": 27,
-   "title": "User Researcher",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$159k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8070133?gh_jid=8070133",
-   "source": "Greenhouse",
-   "matched": [
-    "cross-functional",
-    "marketing",
-    "roadmap",
-    "stakeholder"
-   ],
-   "gaps": [
-    "sql",
-    "community"
-   ],
-   "posted": "2026-10-08T02:38:57-04:00"
+   "posted": "2026-10-09T02:42:58-04:00"
   },
   {
    "score": 53,
@@ -1638,7 +1570,7 @@
     "scrum"
    ],
    "gaps": [],
-   "posted": "2026-09-22T19:24:56-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 53,
@@ -1663,7 +1595,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:43:44-04:00"
+   "posted": "2026-10-09T02:44:17-04:00"
   },
   {
    "score": 53,
@@ -1690,7 +1622,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-10-08T02:34:47-04:00"
+   "posted": "2026-10-09T02:35:13-04:00"
   },
   {
    "score": 53,
@@ -1715,7 +1647,32 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-08T02:34:30-04:00"
+   "posted": "2026-10-09T02:34:55-04:00"
+  },
+  {
+   "score": 53,
+   "fit": 26,
+   "title": "Senior Product Support Manager, Support Operations",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$174k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8214146?gh_jid=8214146",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "launch",
+    "marketing",
+    "roadmap"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-10-09T02:33:10-04:00"
   },
   {
    "score": 52,
@@ -1739,7 +1696,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-10-01T23:44:20-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 52,
@@ -1766,7 +1723,7 @@
     "community",
     "console"
    ],
-   "posted": "2026-09-08T09:02:05-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 51,
@@ -1789,7 +1746,7 @@
     "production"
    ],
    "gaps": [],
-   "posted": "2026-10-01T23:39:01-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 51,
@@ -1812,7 +1769,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 50,
@@ -1834,7 +1791,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-09-25T05:57:48-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 50,
@@ -1856,7 +1813,7 @@
     "production"
    ],
    "gaps": [],
-   "posted": "2026-10-05T15:59:34-04:00"
+   "posted": "2026-10-08T20:11:06-04:00"
   },
   {
    "score": 49,
@@ -1881,7 +1838,7 @@
     "sql",
     "cpi"
    ],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 49,
@@ -1906,7 +1863,7 @@
     "sql",
     "cpi"
    ],
-   "posted": "2026-09-04T14:23:48-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 47,
@@ -1926,7 +1883,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-09-04T13:52:59-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 46,
@@ -1947,7 +1904,7 @@
    "gaps": [
     "figma"
    ],
-   "posted": "2026-09-11T02:14:21-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   },
   {
    "score": 46,
@@ -1966,7 +1923,7 @@
     "risk"
    ],
    "gaps": [],
-   "posted": "2026-09-11T02:12:40-04:00"
+   "posted": "2026-10-08T16:08:11-04:00"
   }
  ]
 }
