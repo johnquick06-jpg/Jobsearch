@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-12T14:17:24+00:00",
- "count": 72,
+ "updated": "2026-10-13T14:15:29+00:00",
+ "count": 73,
  "jobs": [
   {
    "score": 98,
@@ -57,7 +57,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-12T02:37:21-04:00"
+   "posted": "2026-10-13T02:38:00-04:00"
   },
   {
    "score": 86,
@@ -87,7 +87,7 @@
     "ltv",
     "community"
    ],
-   "posted": "2026-10-12T02:40:01-04:00"
+   "posted": "2026-10-13T02:41:06-04:00"
   },
   {
    "score": 86,
@@ -117,7 +117,7 @@
     "ltv",
     "community"
    ],
-   "posted": "2026-09-29T18:50:22-04:00"
+   "posted": "2026-10-12T15:58:06-04:00"
   },
   {
    "score": 80,
@@ -147,7 +147,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-01T04:58:46-04:00"
+   "posted": "2026-10-12T12:52:51-04:00"
   },
   {
    "score": 78,
@@ -177,7 +177,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-12T02:34:31-04:00"
+   "posted": "2026-10-13T02:34:56-04:00"
   },
   {
    "score": 76,
@@ -202,7 +202,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:36:18-04:00"
+   "posted": "2026-10-13T02:36:52-04:00"
   },
   {
    "score": 75,
@@ -263,7 +263,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-12T02:34:29-04:00"
+   "posted": "2026-10-13T02:34:54-04:00"
   },
   {
    "score": 73,
@@ -402,7 +402,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-12T02:35:09-04:00"
+   "posted": "2026-10-13T02:35:39-04:00"
   },
   {
    "score": 72,
@@ -517,7 +517,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:37:25-04:00"
+   "posted": "2026-10-13T02:38:05-04:00"
   },
   {
    "score": 70,
@@ -550,6 +550,48 @@
   },
   {
    "score": 69,
+   "fit": 72,
+   "title": "Senior User Acquisition Specialist",
+   "company": "Jam City",
+   "location": "Palms, Los Angeles County",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.adzuna.com/land/ad/5914972989?se=rhe4iRDH8RGJw5qN-_qQAg&utm_medium=api&utm_source=8376de0d&v=ECF09468EE43F8C78A1EDD15C185510A4A141DF2",
+   "source": "Adzuna",
+   "matched": [
+    "user acquisition"
+   ],
+   "gaps": [
+    "mobile"
+   ],
+   "posted": "2026-10-06T22:07:07Z"
+  },
+  {
+   "score": 69,
+   "fit": 72,
+   "title": "Senior User Acquisition Specialist",
+   "company": "Jam City",
+   "location": "Culver City, Los Angeles County",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.adzuna.com/land/ad/5915051175?se=rhe4iRDH8RGJw5qN-_qQAg&utm_medium=api&utm_source=8376de0d&v=74F26C1A89A20D2A0E223598C0AEFE58D6BE473D",
+   "source": "Adzuna",
+   "matched": [
+    "user acquisition"
+   ],
+   "gaps": [
+    "mobile"
+   ],
+   "posted": "2026-10-06T22:41:13Z"
+  },
+  {
+   "score": 69,
    "fit": 38,
    "title": "Senior/Principal Product Manager, Video Generation (Roblox Reality) ",
    "company": "roblox",
@@ -572,7 +614,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:34:40-04:00"
+   "posted": "2026-10-13T02:35:07-04:00"
   },
   {
    "score": 69,
@@ -679,7 +721,34 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:44:49-04:00"
+   "posted": "2026-10-13T02:46:57-04:00"
+  },
+  {
+   "score": 68,
+   "fit": 36,
+   "title": "Director, Product_MONOPOLY GO!",
+   "company": "scopely",
+   "location": "US - United States",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$186k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5426442008?gh_jid=5426442008",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "publishing",
+    "roadmap",
+    "video"
+   ],
+   "gaps": [
+    "community",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-10-13T05:47:50-04:00"
   },
   {
    "score": 68,
@@ -760,7 +829,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:32:29-04:00"
+   "posted": "2026-10-13T02:32:38-04:00"
   },
   {
    "score": 67,
@@ -787,7 +856,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-12T02:39:56-04:00"
+   "posted": "2026-10-13T02:40:59-04:00"
   },
   {
    "score": 66,
@@ -833,7 +902,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:38:26-04:00"
+   "posted": "2026-10-13T02:39:09-04:00"
   },
   {
    "score": 66,
@@ -964,7 +1033,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-12T02:38:24-04:00"
+   "posted": "2026-10-13T02:39:07-04:00"
   },
   {
    "score": 63,
@@ -994,7 +1063,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-12T02:42:56-04:00"
+   "posted": "2026-10-13T02:44:38-04:00"
   },
   {
    "score": 62,
@@ -1091,7 +1160,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:44:51-04:00"
+   "posted": "2026-10-13T02:46:59-04:00"
   },
   {
    "score": 59,
@@ -1119,7 +1188,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-12T02:41:55-04:00"
+   "posted": "2026-10-13T02:43:31-04:00"
   },
   {
    "score": 58,
@@ -1200,7 +1269,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:33:22-04:00"
+   "posted": "2026-10-13T02:33:39-04:00"
   },
   {
    "score": 58,
@@ -1283,7 +1352,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-12T02:35:59-04:00"
+   "posted": "2026-10-13T02:36:34-04:00"
   },
   {
    "score": 57,
@@ -1385,7 +1454,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:33:20-04:00"
+   "posted": "2026-10-13T02:33:37-04:00"
   },
   {
    "score": 55,
@@ -1409,7 +1478,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-12T02:43:07-04:00"
+   "posted": "2026-10-13T02:44:54-04:00"
   },
   {
    "score": 55,
@@ -1431,7 +1500,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:41:34-04:00"
+   "posted": "2026-10-13T02:43:06-04:00"
   },
   {
    "score": 54,
@@ -1513,32 +1582,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:42:37-04:00"
-  },
-  {
-   "score": 53,
-   "fit": 26,
-   "title": "Director of Business Development, Payments",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$276k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/7604271?gh_jid=7604271",
-   "source": "Greenhouse",
-   "matched": [
-    "cross-functional",
-    "milestone",
-    "risk",
-    "roadmap",
-    "stakeholder"
-   ],
-   "gaps": [
-    "community"
-   ],
-   "posted": "2026-10-12T02:43:56-04:00"
+   "posted": "2026-10-13T02:44:17-04:00"
   },
   {
    "score": 53,
@@ -1565,7 +1609,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-10-12T02:35:20-04:00"
+   "posted": "2026-10-13T02:35:50-04:00"
   },
   {
    "score": 53,
@@ -1590,7 +1634,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:35:03-04:00"
+   "posted": "2026-10-13T02:35:33-04:00"
   },
   {
    "score": 53,
@@ -1615,7 +1659,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-12T02:33:24-04:00"
+   "posted": "2026-10-13T02:33:42-04:00"
   },
   {
    "score": 52,
@@ -1717,30 +1761,6 @@
   {
    "score": 50,
    "fit": 34,
-   "title": "Head of Partnership Management, Global/Americas",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/7755218?gh_jid=7755218",
-   "source": "Greenhouse",
-   "matched": [
-    "creative",
-    "cross-functional",
-    "milestone",
-    "stakeholder"
-   ],
-   "gaps": [
-    "budget"
-   ],
-   "posted": "2026-10-09T13:19:28-04:00"
-  },
-  {
-   "score": 50,
-   "fit": 34,
    "title": "Manager, Narrative Writing - League of Legends",
    "company": "riotgames",
    "location": "Los Angeles, USA",
@@ -1759,28 +1779,6 @@
    ],
    "gaps": [],
    "posted": "2026-10-08T16:08:11-04:00"
-  },
-  {
-   "score": 50,
-   "fit": 34,
-   "title": "Technical Art Lead, Rigging - VALORANT, Agents",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8227587?gh_jid=8227587",
-   "source": "Greenhouse",
-   "matched": [
-    "content",
-    "creative",
-    "pipeline",
-    "production"
-   ],
-   "gaps": [],
-   "posted": "2026-10-08T20:11:06-04:00"
   },
   {
    "score": 49,
@@ -1851,6 +1849,29 @@
    ],
    "gaps": [],
    "posted": "2026-10-08T16:08:11-04:00"
+  },
+  {
+   "score": 47,
+   "fit": 29,
+   "title": "Staff Applied AI/ML Scientist - Central Technology, Anti-Cheat",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8202900?gh_jid=8202900",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "pipeline",
+    "production",
+    "risk",
+    "video"
+   ],
+   "gaps": [],
+   "posted": "2026-10-12T19:04:30-04:00"
   },
   {
    "score": 46,
