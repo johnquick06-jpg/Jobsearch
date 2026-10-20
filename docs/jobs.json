@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T14:30:28+00:00",
+ "updated": "2026-10-20T14:26:02+00:00",
  "count": 76,
  "jobs": [
   {
@@ -57,7 +57,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-19T02:40:21-04:00"
+   "posted": "2026-10-20T02:40:42-04:00"
   },
   {
    "score": 86,
@@ -151,6 +151,34 @@
   },
   {
    "score": 78,
+   "fit": 90,
+   "title": "Integrated Marketing Manager (Short Term) ",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Contract",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://careers.roblox.com/jobs/8209048?gh_jid=8209048",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "content",
+    "creative",
+    "influencer",
+    "launch",
+    "live service",
+    "marketing",
+    "production"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-10-19T16:40:23-04:00"
+  },
+  {
+   "score": 78,
    "fit": 75,
    "title": "Operations Manager, Influencer Marketing",
    "company": "roblox",
@@ -177,7 +205,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-19T02:37:42-04:00"
+   "posted": "2026-10-20T02:37:59-04:00"
   },
   {
    "score": 75,
@@ -238,7 +266,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-19T02:37:40-04:00"
+   "posted": "2026-10-20T02:37:57-04:00"
   },
   {
    "score": 73,
@@ -377,7 +405,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-19T02:38:20-04:00"
+   "posted": "2026-10-20T02:38:40-04:00"
   },
   {
    "score": 72,
@@ -441,6 +469,35 @@
   },
   {
    "score": 70,
+   "fit": 75,
+   "title": "Brand Manager - Unpublished R&D  Product",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8293677?gh_jid=8293677",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "content",
+    "creative",
+    "cross-functional",
+    "launch",
+    "live service",
+    "live-service",
+    "marketing"
+   ],
+   "gaps": [
+    "budget",
+    "community"
+   ],
+   "posted": "2026-10-19T19:26:51-04:00"
+  },
+  {
+   "score": 70,
    "fit": 74,
    "title": "Technical Producer II - VALORANT, Developer Experience",
    "company": "riotgames",
@@ -492,7 +549,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:40:25-04:00"
+   "posted": "2026-10-20T02:40:46-04:00"
   },
   {
    "score": 69,
@@ -518,7 +575,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:37:52-04:00"
+   "posted": "2026-10-20T02:38:10-04:00"
   },
   {
    "score": 69,
@@ -546,7 +603,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-09-10T11:59:50-04:00"
+   "posted": "2026-10-20T08:03:27-04:00"
   },
   {
    "score": 69,
@@ -653,7 +710,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:34:39-04:00"
+   "posted": "2026-10-20T02:34:55-04:00"
   },
   {
    "score": 68,
@@ -678,7 +735,33 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:47:36-04:00"
+   "posted": "2026-10-20T02:47:44-04:00"
+  },
+  {
+   "score": 68,
+   "fit": 36,
+   "title": "Director, Corporate Development",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$164k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5449450008?gh_jid=5449450008",
+   "source": "Greenhouse",
+   "matched": [
+    "pipeline",
+    "publishing",
+    "release",
+    "risk",
+    "video"
+   ],
+   "gaps": [
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-10-20T08:17:45-04:00"
   },
   {
    "score": 68,
@@ -731,38 +814,6 @@
   },
   {
    "score": 67,
-   "fit": 69,
-   "title": "Senior Brand Manager",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8247937?gh_jid=8247937",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "creative",
-    "cross-functional",
-    "influencer",
-    "launch",
-    "live-service",
-    "marketing",
-    "production"
-   ],
-   "gaps": [
-    "budget",
-    "community",
-    "brand strategy",
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-10-08T20:16:50-04:00"
-  },
-  {
-   "score": 67,
    "fit": 34,
    "title": "Director of Product, Payments and Wallet",
    "company": "roblox",
@@ -783,7 +834,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:35:54-04:00"
+   "posted": "2026-10-20T02:36:10-04:00"
   },
   {
    "score": 67,
@@ -810,7 +861,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-19T02:43:03-04:00"
+   "posted": "2026-10-20T02:43:16-04:00"
   },
   {
    "score": 66,
@@ -856,7 +907,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:41:26-04:00"
+   "posted": "2026-10-20T02:41:44-04:00"
   },
   {
    "score": 66,
@@ -915,30 +966,6 @@
    "posted": "2026-10-14T16:03:06-04:00"
   },
   {
-   "score": 64,
-   "fit": 63,
-   "title": "Technical Producer II - League of Legends, Tech & Tools",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8241802?gh_jid=8241802",
-   "source": "Greenhouse",
-   "matched": [
-    "agile",
-    "jira",
-    "live service",
-    "production",
-    "roadmap",
-    "scrum"
-   ],
-   "gaps": [],
-   "posted": "2026-10-08T16:08:11-04:00"
-  },
-  {
    "score": 63,
    "fit": 60,
    "title": "Senior Program Manager (Brand Partnerships)",
@@ -987,7 +1014,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-19T02:41:24-04:00"
+   "posted": "2026-10-20T02:41:41-04:00"
   },
   {
    "score": 63,
@@ -1017,7 +1044,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-19T02:45:50-04:00"
+   "posted": "2026-10-20T02:45:58-04:00"
   },
   {
    "score": 62,
@@ -1114,7 +1141,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:47:37-04:00"
+   "posted": "2026-10-20T02:47:46-04:00"
   },
   {
    "score": 59,
@@ -1142,7 +1169,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-19T02:44:53-04:00"
+   "posted": "2026-10-20T02:45:01-04:00"
   },
   {
    "score": 58,
@@ -1223,38 +1250,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:36:39-04:00"
-  },
-  {
-   "score": 58,
-   "fit": 30,
-   "title": "Licensing Operations Coordinator",
-   "company": "scopely",
-   "location": "CA - Canada",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://job-boards.greenhouse.io/scopely/jobs/5413072008?gh_jid=5413072008",
-   "source": "Greenhouse",
-   "matched": [
-    "airtable",
-    "campaign",
-    "content",
-    "creative",
-    "cross-functional",
-    "jira",
-    "live-service",
-    "marketing"
-   ],
-   "gaps": [
-    "crm",
-    "community",
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-10-16T06:30:00-04:00"
+   "posted": "2026-10-20T02:36:55-04:00"
   },
   {
    "score": 58,
@@ -1306,7 +1302,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-19T02:39:04-04:00"
+   "posted": "2026-10-20T02:39:25-04:00"
   },
   {
    "score": 57,
@@ -1462,7 +1458,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:36:37-04:00"
+   "posted": "2026-10-20T02:36:53-04:00"
   },
   {
    "score": 55,
@@ -1486,7 +1482,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-19T02:46:02-04:00"
+   "posted": "2026-10-20T02:46:10-04:00"
   },
   {
    "score": 55,
@@ -1508,7 +1504,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:35:52-04:00"
+   "posted": "2026-10-20T02:36:08-04:00"
   },
   {
    "score": 55,
@@ -1530,7 +1526,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:44:31-04:00"
+   "posted": "2026-10-20T02:44:38-04:00"
   },
   {
    "score": 54,
@@ -1612,7 +1608,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:45:31-04:00"
+   "posted": "2026-10-20T02:45:41-04:00"
   },
   {
    "score": 53,
@@ -1637,7 +1633,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:46:46-04:00"
+   "posted": "2026-10-20T02:46:54-04:00"
   },
   {
    "score": 53,
@@ -1664,7 +1660,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-10-19T02:38:30-04:00"
+   "posted": "2026-10-20T02:38:51-04:00"
   },
   {
    "score": 53,
@@ -1689,7 +1685,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:38:14-04:00"
+   "posted": "2026-10-20T02:38:34-04:00"
   },
   {
    "score": 53,
@@ -1714,7 +1710,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-19T02:36:41-04:00"
+   "posted": "2026-10-20T02:36:57-04:00"
   },
   {
    "score": 52,
@@ -1792,6 +1788,32 @@
    ],
    "gaps": [],
    "posted": "2026-10-08T16:08:11-04:00"
+  },
+  {
+   "score": 52,
+   "fit": 36,
+   "title": "Customer Success Manager",
+   "company": "twitch",
+   "location": "Los Angeles, CA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$102k",
+   "salary_tag": "Near floor",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8900708002",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "content",
+    "influencer",
+    "marketing",
+    "pipeline"
+   ],
+   "gaps": [
+    "community",
+    "influencer marketing"
+   ],
+   "posted": "2026-10-19T16:28:16-04:00"
   },
   {
    "score": 51,
@@ -1889,31 +1911,6 @@
   {
    "score": 49,
    "fit": 32,
-   "title": "Principal Insights Analyst - Central Product Insights",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8148781?gh_jid=8148781",
-   "source": "Greenhouse",
-   "matched": [
-    "live-service",
-    "production",
-    "stakeholder"
-   ],
-   "gaps": [
-    "tableau",
-    "sql",
-    "cpi"
-   ],
-   "posted": "2026-10-08T16:08:11-04:00"
-  },
-  {
-   "score": 49,
-   "fit": 32,
    "title": "Sr. Principal Insights Analyst - Central Product Insights",
    "company": "riotgames",
    "location": "Los Angeles, USA",
@@ -1954,7 +1951,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-10-08T16:08:11-04:00"
+   "posted": "2026-10-19T19:47:15-04:00"
   },
   {
    "score": 46,
