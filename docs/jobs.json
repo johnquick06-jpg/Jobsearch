@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T14:26:02+00:00",
- "count": 76,
+ "updated": "2026-10-21T18:21:49+00:00",
+ "count": 77,
  "jobs": [
   {
    "score": 98,
@@ -29,7 +29,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-09-22T14:25:59-04:00"
+   "posted": "2026-10-21T13:45:07-04:00"
   },
   {
    "score": 93,
@@ -57,7 +57,36 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-20T02:40:42-04:00"
+   "posted": "2026-10-21T02:40:56-04:00"
+  },
+  {
+   "score": 88,
+   "fit": 96,
+   "title": "Senior Live Ops Producer",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$142k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8280125?gh_jid=8280125",
+   "source": "Greenhouse",
+   "matched": [
+    "airtable",
+    "content",
+    "influencer",
+    "jira",
+    "launch",
+    "live-service",
+    "localization",
+    "marketing"
+   ],
+   "gaps": [
+    "asana",
+    "community"
+   ],
+   "posted": "2026-10-21T03:00:16-04:00"
   },
   {
    "score": 86,
@@ -147,7 +176,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-13T20:05:20-04:00"
+   "posted": "2026-10-20T17:19:23-04:00"
   },
   {
    "score": 78,
@@ -205,7 +234,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-20T02:37:59-04:00"
+   "posted": "2026-10-21T02:38:13-04:00"
   },
   {
    "score": 75,
@@ -266,7 +295,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-20T02:37:57-04:00"
+   "posted": "2026-10-21T02:38:11-04:00"
   },
   {
    "score": 73,
@@ -405,7 +434,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-20T02:38:40-04:00"
+   "posted": "2026-10-21T02:38:50-04:00"
   },
   {
    "score": 72,
@@ -465,7 +494,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-08-27T12:26:48-04:00"
+   "posted": "2026-10-20T10:34:00-04:00"
   },
   {
    "score": 70,
@@ -549,7 +578,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:40:46-04:00"
+   "posted": "2026-10-21T02:41:00-04:00"
   },
   {
    "score": 69,
@@ -575,7 +604,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:38:10-04:00"
+   "posted": "2026-10-21T02:38:21-04:00"
   },
   {
    "score": 69,
@@ -664,6 +693,32 @@
    "posted": "2026-08-28T14:47:27-04:00"
   },
   {
+   "score": 69,
+   "fit": 58,
+   "title": "Sr. Product Manager, Premium Content Experience",
+   "company": "twitch",
+   "location": "Los Angeles, CA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$151k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8903135002",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "launch",
+    "marketing",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-10-20T13:16:23-04:00"
+  },
+  {
    "score": 68,
    "fit": 70,
    "title": "Senior Technical Producer \u2014 Teamfight Tactics,  Core Tech",
@@ -710,7 +765,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:34:55-04:00"
+   "posted": "2026-10-21T02:34:59-04:00"
   },
   {
    "score": 68,
@@ -735,7 +790,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:47:44-04:00"
+   "posted": "2026-10-21T02:47:56-04:00"
   },
   {
    "score": 68,
@@ -810,7 +865,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-15T18:27:22-04:00"
+   "posted": "2026-10-20T13:01:11-04:00"
   },
   {
    "score": 67,
@@ -834,7 +889,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:36:10-04:00"
+   "posted": "2026-10-21T02:36:22-04:00"
   },
   {
    "score": 67,
@@ -861,7 +916,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-20T02:43:16-04:00"
+   "posted": "2026-10-21T02:43:27-04:00"
   },
   {
    "score": 66,
@@ -884,7 +939,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-15T16:08:17-04:00"
+   "posted": "2026-10-20T13:01:11-04:00"
   },
   {
    "score": 66,
@@ -907,7 +962,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:41:44-04:00"
+   "posted": "2026-10-21T02:41:52-04:00"
   },
   {
    "score": 66,
@@ -933,7 +988,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-09-23T22:16:47-04:00"
+   "posted": "2026-10-20T10:32:32-04:00"
   },
   {
    "score": 65,
@@ -963,32 +1018,33 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-14T16:03:06-04:00"
+   "posted": "2026-10-20T10:34:16-04:00"
   },
   {
    "score": 63,
-   "fit": 60,
-   "title": "Senior Program Manager (Brand Partnerships)",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
+   "fit": 26,
+   "title": "Facilities Project Manager",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "Remote",
    "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8244020?gh_jid=8244020",
+   "salary": "$136k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8292641?gh_jid=8292641",
    "source": "Greenhouse",
    "matched": [
+    "agile",
     "cross-functional",
-    "marketing",
     "milestone",
-    "pipeline",
-    "publishing",
     "risk",
     "stakeholder"
    ],
-   "gaps": [],
-   "posted": "2026-10-08T20:15:31-04:00"
+   "gaps": [
+    "budget",
+    "community"
+   ],
+   "posted": "2026-10-21T14:01:03-04:00"
   },
   {
    "score": 63,
@@ -1014,7 +1070,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-20T02:41:41-04:00"
+   "posted": "2026-10-21T02:41:50-04:00"
   },
   {
    "score": 63,
@@ -1044,7 +1100,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-20T02:45:58-04:00"
+   "posted": "2026-10-21T02:46:11-04:00"
   },
   {
    "score": 62,
@@ -1141,7 +1197,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:47:46-04:00"
+   "posted": "2026-10-21T02:47:58-04:00"
   },
   {
    "score": 59,
@@ -1169,7 +1225,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-20T02:45:01-04:00"
+   "posted": "2026-10-21T02:45:16-04:00"
   },
   {
    "score": 58,
@@ -1250,7 +1306,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:36:55-04:00"
+   "posted": "2026-10-21T02:37:07-04:00"
   },
   {
    "score": 58,
@@ -1302,7 +1358,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-20T02:39:25-04:00"
+   "posted": "2026-10-21T02:39:35-04:00"
   },
   {
    "score": 57,
@@ -1458,7 +1514,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:36:53-04:00"
+   "posted": "2026-10-21T02:37:05-04:00"
   },
   {
    "score": 55,
@@ -1482,7 +1538,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-20T02:46:10-04:00"
+   "posted": "2026-10-21T13:12:22-04:00"
   },
   {
    "score": 55,
@@ -1504,7 +1560,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:36:08-04:00"
+   "posted": "2026-10-21T02:36:12-04:00"
   },
   {
    "score": 55,
@@ -1526,7 +1582,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:44:38-04:00"
+   "posted": "2026-10-21T02:44:54-04:00"
   },
   {
    "score": 54,
@@ -1608,7 +1664,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:45:41-04:00"
+   "posted": "2026-10-21T02:45:53-04:00"
   },
   {
    "score": 53,
@@ -1633,7 +1689,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:46:54-04:00"
+   "posted": "2026-10-21T02:47:07-04:00"
   },
   {
    "score": 53,
@@ -1660,7 +1716,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-10-20T02:38:51-04:00"
+   "posted": "2026-10-21T02:39:01-04:00"
   },
   {
    "score": 53,
@@ -1685,7 +1741,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:38:34-04:00"
+   "posted": "2026-10-21T02:38:43-04:00"
   },
   {
    "score": 53,
@@ -1710,7 +1766,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T02:36:57-04:00"
+   "posted": "2026-10-21T02:37:09-04:00"
   },
   {
    "score": 52,
@@ -1792,7 +1848,7 @@
   {
    "score": 52,
    "fit": 36,
-   "title": "Customer Success Manager",
+   "title": "Product Operations Manager",
    "company": "twitch",
    "location": "Los Angeles, CA",
    "mode": "On-site",
@@ -1813,7 +1869,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-19T16:28:16-04:00"
+   "posted": "2026-10-21T13:55:30-04:00"
   },
   {
    "score": 51,
@@ -1932,26 +1988,6 @@
     "cpi"
    ],
    "posted": "2026-10-08T16:08:11-04:00"
-  },
-  {
-   "score": 47,
-   "fit": 29,
-   "title": "Manager, Technical Game Design - Teamfight Tactics",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8124195?gh_jid=8124195",
-   "source": "Greenhouse",
-   "matched": [
-    "live service",
-    "roadmap"
-   ],
-   "gaps": [],
-   "posted": "2026-10-19T19:47:15-04:00"
   },
   {
    "score": 46,
