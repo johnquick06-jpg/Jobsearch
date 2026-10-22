@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T18:21:49+00:00",
- "count": 77,
+ "updated": "2026-10-22T18:16:36+00:00",
+ "count": 79,
  "jobs": [
   {
    "score": 98,
@@ -29,7 +29,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-21T13:45:07-04:00"
+   "posted": "2026-10-21T14:45:37-04:00"
   },
   {
    "score": 93,
@@ -57,7 +57,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-21T02:40:56-04:00"
+   "posted": "2026-10-22T02:40:50-04:00"
   },
   {
    "score": 88,
@@ -86,7 +86,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-10-21T03:00:16-04:00"
+   "posted": "2026-10-22T02:35:13-04:00"
   },
   {
    "score": 86,
@@ -116,7 +116,7 @@
     "ltv",
     "community"
    ],
-   "posted": "2026-10-14T15:18:25-04:00"
+   "posted": "2026-10-22T13:22:18-04:00"
   },
   {
    "score": 86,
@@ -234,7 +234,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-21T02:38:13-04:00"
+   "posted": "2026-10-22T02:38:16-04:00"
   },
   {
    "score": 75,
@@ -295,7 +295,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-21T02:38:11-04:00"
+   "posted": "2026-10-22T02:38:14-04:00"
   },
   {
    "score": 73,
@@ -434,7 +434,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-21T02:38:50-04:00"
+   "posted": "2026-10-22T02:38:51-04:00"
   },
   {
    "score": 72,
@@ -578,7 +578,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:41:00-04:00"
+   "posted": "2026-10-22T02:40:55-04:00"
   },
   {
    "score": 69,
@@ -604,7 +604,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:38:21-04:00"
+   "posted": "2026-10-22T02:38:23-04:00"
   },
   {
    "score": 69,
@@ -765,7 +765,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:34:59-04:00"
+   "posted": "2026-10-22T02:35:14-04:00"
   },
   {
    "score": 68,
@@ -790,7 +790,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:47:56-04:00"
+   "posted": "2026-10-22T02:47:28-04:00"
   },
   {
    "score": 68,
@@ -817,6 +817,32 @@
     "mobile"
    ],
    "posted": "2026-10-20T08:17:45-04:00"
+  },
+  {
+   "score": 68,
+   "fit": 36,
+   "title": "Sr. Manager, Indirect Tax",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States; US - San Francisco, California, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$138k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5457022008?gh_jid=5457022008",
+   "source": "Greenhouse",
+   "matched": [
+    "launch",
+    "publishing",
+    "risk",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-10-22T11:42:28-04:00"
   },
   {
    "score": 68,
@@ -852,7 +878,7 @@
    "mode": "Remote",
    "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "$132k\u2013$148k",
+   "salary": "$132k",
    "salary_tag": "\u2265 $110k",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8652914002",
    "source": "Greenhouse",
@@ -865,7 +891,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T13:01:11-04:00"
+   "posted": "2026-10-21T14:46:26-04:00"
   },
   {
    "score": 67,
@@ -889,7 +915,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:36:22-04:00"
+   "posted": "2026-10-22T02:36:19-04:00"
   },
   {
    "score": 67,
@@ -916,7 +942,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-21T02:43:27-04:00"
+   "posted": "2026-10-22T02:43:18-04:00"
   },
   {
    "score": 66,
@@ -927,7 +953,7 @@
    "mode": "Remote",
    "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "$132k\u2013$148k",
+   "salary": "$132k",
    "salary_tag": "\u2265 $110k",
    "url": "https://job-boards.greenhouse.io/discord/jobs/8757366002",
    "source": "Greenhouse",
@@ -939,7 +965,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-20T13:01:11-04:00"
+   "posted": "2026-10-21T14:37:03-04:00"
   },
   {
    "score": 66,
@@ -962,7 +988,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:41:52-04:00"
+   "posted": "2026-10-22T13:23:38-04:00"
   },
   {
    "score": 66,
@@ -1044,7 +1070,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-21T14:01:03-04:00"
+   "posted": "2026-10-22T02:34:00-04:00"
   },
   {
    "score": 63,
@@ -1070,7 +1096,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-21T02:41:50-04:00"
+   "posted": "2026-10-22T13:23:59-04:00"
   },
   {
    "score": 63,
@@ -1100,7 +1126,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-21T02:46:11-04:00"
+   "posted": "2026-10-22T02:45:51-04:00"
   },
   {
    "score": 62,
@@ -1197,7 +1223,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:47:58-04:00"
+   "posted": "2026-10-22T02:47:31-04:00"
   },
   {
    "score": 59,
@@ -1225,7 +1251,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-21T02:45:16-04:00"
+   "posted": "2026-10-22T02:44:53-04:00"
   },
   {
    "score": 58,
@@ -1306,7 +1332,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:37:07-04:00"
+   "posted": "2026-10-22T02:37:11-04:00"
   },
   {
    "score": 58,
@@ -1358,7 +1384,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-21T02:39:35-04:00"
+   "posted": "2026-10-22T02:39:43-04:00"
   },
   {
    "score": 57,
@@ -1469,6 +1495,35 @@
    "posted": "2026-10-08T21:33:21-04:00"
   },
   {
+   "score": 56,
+   "fit": 47,
+   "title": "Associate Art Director ",
+   "company": "scopely",
+   "location": "CA - Canada",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5460296008?gh_jid=5460296008",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "cross-functional",
+    "live service",
+    "milestone",
+    "pipeline",
+    "production",
+    "risk"
+   ],
+   "gaps": [
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-10-21T14:58:15-04:00"
+  },
+  {
    "score": 55,
    "fit": 45,
    "title": "Sr. Manager, Audio Direction - Unpublished R&D Product",
@@ -1514,7 +1569,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:37:05-04:00"
+   "posted": "2026-10-22T02:37:09-04:00"
   },
   {
    "score": 55,
@@ -1538,7 +1593,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-21T13:12:22-04:00"
+   "posted": "2026-10-22T02:46:01-04:00"
   },
   {
    "score": 55,
@@ -1560,7 +1615,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:36:12-04:00"
+   "posted": "2026-10-22T12:53:05-04:00"
   },
   {
    "score": 55,
@@ -1582,7 +1637,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:44:54-04:00"
+   "posted": "2026-10-22T02:44:34-04:00"
   },
   {
    "score": 54,
@@ -1664,7 +1719,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:45:53-04:00"
+   "posted": "2026-10-22T02:45:33-04:00"
   },
   {
    "score": 53,
@@ -1689,7 +1744,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:47:07-04:00"
+   "posted": "2026-10-22T02:46:41-04:00"
   },
   {
    "score": 53,
@@ -1716,7 +1771,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-10-21T02:39:01-04:00"
+   "posted": "2026-10-22T02:39:02-04:00"
   },
   {
    "score": 53,
@@ -1741,7 +1796,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:38:43-04:00"
+   "posted": "2026-10-22T02:38:45-04:00"
   },
   {
    "score": 53,
@@ -1766,7 +1821,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-21T02:37:09-04:00"
+   "posted": "2026-10-22T12:59:25-04:00"
   },
   {
    "score": 52,
