@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T18:16:36+00:00",
- "count": 79,
+ "updated": "2026-10-23T18:05:32+00:00",
+ "count": 81,
  "jobs": [
   {
    "score": 98,
@@ -29,7 +29,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-21T14:45:37-04:00"
+   "posted": "2026-10-23T14:00:13-04:00"
   },
   {
    "score": 93,
@@ -57,7 +57,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-22T02:40:50-04:00"
+   "posted": "2026-10-23T02:41:00-04:00"
   },
   {
    "score": 88,
@@ -86,7 +86,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-10-22T02:35:13-04:00"
+   "posted": "2026-10-23T02:35:13-04:00"
   },
   {
    "score": 86,
@@ -234,7 +234,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-22T02:38:16-04:00"
+   "posted": "2026-10-23T02:38:21-04:00"
   },
   {
    "score": 75,
@@ -295,7 +295,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-22T02:38:14-04:00"
+   "posted": "2026-10-23T02:38:18-04:00"
   },
   {
    "score": 73,
@@ -434,7 +434,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-22T02:38:51-04:00"
+   "posted": "2026-10-23T02:39:04-04:00"
   },
   {
    "score": 72,
@@ -578,7 +578,35 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:40:55-04:00"
+   "posted": "2026-10-23T02:41:04-04:00"
+  },
+  {
+   "score": 70,
+   "fit": 40,
+   "title": "Sr. Manager, Benefits (North America)",
+   "company": "scopely",
+   "location": "US - Culver City, United States; US - United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$138k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5211606008?gh_jid=5211606008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "publishing",
+    "risk",
+    "roadmap",
+    "stakeholder",
+    "vendor management",
+    "video"
+   ],
+   "gaps": [
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-10-23T11:23:59-04:00"
   },
   {
    "score": 69,
@@ -604,7 +632,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:38:23-04:00"
+   "posted": "2026-10-23T02:38:32-04:00"
   },
   {
    "score": 69,
@@ -765,7 +793,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:35:14-04:00"
+   "posted": "2026-10-23T02:35:15-04:00"
   },
   {
    "score": 68,
@@ -790,7 +818,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:47:28-04:00"
+   "posted": "2026-10-23T02:47:45-04:00"
   },
   {
    "score": 68,
@@ -915,7 +943,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:36:19-04:00"
+   "posted": "2026-10-23T02:36:26-04:00"
   },
   {
    "score": 67,
@@ -942,7 +970,33 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-22T02:43:18-04:00"
+   "posted": "2026-10-23T02:43:18-04:00"
+  },
+  {
+   "score": 67,
+   "fit": 34,
+   "title": "Sr. Manager, Finance Business Partner",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$416k (converted from hourly)",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5454324008?gh_jid=5454324008",
+   "source": "Greenhouse",
+   "matched": [
+    "publishing",
+    "risk",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "budget",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-10-22T19:14:48-04:00"
   },
   {
    "score": 66,
@@ -988,7 +1042,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T13:23:38-04:00"
+   "posted": "2026-10-23T02:41:55-04:00"
   },
   {
    "score": 66,
@@ -1047,6 +1101,31 @@
    "posted": "2026-10-20T10:34:16-04:00"
   },
   {
+   "score": 64,
+   "fit": 29,
+   "title": "Technical Sourcer",
+   "company": "discord",
+   "location": "San Francisco Bay Area or Remote (U.S.)",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Contract",
+   "salary": "$132k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8822683002",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "creative",
+    "pipeline",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-10-23T13:33:39-04:00"
+  },
+  {
    "score": 63,
    "fit": 26,
    "title": "Facilities Project Manager",
@@ -1070,7 +1149,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-22T02:34:00-04:00"
+   "posted": "2026-10-23T02:34:01-04:00"
   },
   {
    "score": 63,
@@ -1096,7 +1175,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-22T13:23:59-04:00"
+   "posted": "2026-10-23T02:41:53-04:00"
   },
   {
    "score": 63,
@@ -1126,7 +1205,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-22T02:45:51-04:00"
+   "posted": "2026-10-23T02:45:59-04:00"
   },
   {
    "score": 62,
@@ -1223,7 +1302,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:47:31-04:00"
+   "posted": "2026-10-23T02:47:47-04:00"
   },
   {
    "score": 59,
@@ -1251,7 +1330,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-22T02:44:53-04:00"
+   "posted": "2026-10-23T02:44:56-04:00"
   },
   {
    "score": 58,
@@ -1332,7 +1411,32 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:37:11-04:00"
+   "posted": "2026-10-23T02:37:07-04:00"
+  },
+  {
+   "score": 58,
+   "fit": 36,
+   "title": "Senior Technical Program Manager, Engine",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$226k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8265761?gh_jid=8265761",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "milestone",
+    "release",
+    "risk",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-10-23T02:34:54-04:00"
   },
   {
    "score": 58,
@@ -1384,7 +1488,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-22T02:39:43-04:00"
+   "posted": "2026-10-23T02:39:46-04:00"
   },
   {
    "score": 57,
@@ -1569,7 +1673,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:37:09-04:00"
+   "posted": "2026-10-23T02:37:05-04:00"
   },
   {
    "score": 55,
@@ -1593,7 +1697,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-22T02:46:01-04:00"
+   "posted": "2026-10-23T02:46:10-04:00"
   },
   {
    "score": 55,
@@ -1615,7 +1719,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T12:53:05-04:00"
+   "posted": "2026-10-23T02:36:24-04:00"
   },
   {
    "score": 55,
@@ -1637,7 +1741,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:44:34-04:00"
+   "posted": "2026-10-23T02:44:29-04:00"
   },
   {
    "score": 54,
@@ -1719,7 +1823,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:45:33-04:00"
+   "posted": "2026-10-23T02:45:42-04:00"
   },
   {
    "score": 53,
@@ -1744,34 +1848,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:46:41-04:00"
-  },
-  {
-   "score": 53,
-   "fit": 26,
-   "title": "Revenue Operations Manager",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$199k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8171039?gh_jid=8171039",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "cross-functional",
-    "pipeline",
-    "risk",
-    "stakeholder"
-   ],
-   "gaps": [
-    "sql",
-    "crm",
-    "community"
-   ],
-   "posted": "2026-10-22T02:39:02-04:00"
+   "posted": "2026-10-23T02:46:50-04:00"
   },
   {
    "score": 53,
@@ -1796,7 +1873,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T02:38:45-04:00"
+   "posted": "2026-10-23T02:38:57-04:00"
   },
   {
    "score": 53,
@@ -1821,33 +1898,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-22T12:59:25-04:00"
-  },
-  {
-   "score": 52,
-   "fit": 38,
-   "title": "Principal Insights Analyst - League of Legends",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8279959?gh_jid=8279959",
-   "source": "Greenhouse",
-   "matched": [
-    "content",
-    "cross-functional",
-    "live-service",
-    "pipeline",
-    "risk",
-    "stakeholder"
-   ],
-   "gaps": [
-    "sql"
-   ],
-   "posted": "2026-10-13T19:29:30-04:00"
+   "posted": "2026-10-23T02:37:09-04:00"
   },
   {
    "score": 52,
