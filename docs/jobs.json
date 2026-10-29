@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T19:20:02+00:00",
- "count": 80,
+ "updated": "2026-10-29T19:24:47+00:00",
+ "count": 78,
  "jobs": [
   {
    "score": 98,
@@ -57,7 +57,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-10-28T14:44:42-04:00"
+   "posted": "2026-10-29T14:43:52-04:00"
   },
   {
    "score": 88,
@@ -86,7 +86,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-10-28T14:38:34-04:00"
+   "posted": "2026-10-29T14:38:22-04:00"
   },
   {
    "score": 86,
@@ -234,7 +234,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-10-28T14:41:57-04:00"
+   "posted": "2026-10-29T14:41:13-04:00"
   },
   {
    "score": 75,
@@ -265,37 +265,6 @@
     "mobile"
    ],
    "posted": "2026-09-03T12:56:54-04:00"
-  },
-  {
-   "score": 74,
-   "fit": 68,
-   "title": "Influencer Marketing Specialist",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$152k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8187220?gh_jid=8187220",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "content",
-    "creative",
-    "cross-functional",
-    "influencer",
-    "marketing",
-    "production",
-    "risk"
-   ],
-   "gaps": [
-    "crm",
-    "social media",
-    "community",
-    "influencer marketing"
-   ],
-   "posted": "2026-10-28T14:41:54-04:00"
   },
   {
    "score": 73,
@@ -434,7 +403,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-10-28T14:42:35-04:00"
+   "posted": "2026-10-29T14:41:51-04:00"
   },
   {
    "score": 72,
@@ -527,8 +496,8 @@
   },
   {
    "score": 70,
-   "fit": 74,
-   "title": "Technical Producer II - VALORANT, Developer Experience",
+   "fit": 75,
+   "title": "Sr. Principal Technical Producer - Developer Connections",
    "company": "riotgames",
    "location": "Los Angeles, USA",
    "mode": "On-site",
@@ -536,22 +505,20 @@
    "type": "Full-time",
    "salary": "Unlisted",
    "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8247935?gh_jid=8247935",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8268871?gh_jid=8268871",
    "source": "Greenhouse",
    "matched": [
     "agile",
-    "content",
     "jira",
-    "live-service",
-    "milestone",
     "production",
     "release",
-    "risk"
+    "risk",
+    "roadmap",
+    "scrum",
+    "stakeholder"
    ],
-   "gaps": [
-    "playable"
-   ],
-   "posted": "2026-10-08T20:17:26-04:00"
+   "gaps": [],
+   "posted": "2026-10-28T17:43:34-04:00"
   },
   {
    "score": 70,
@@ -605,7 +572,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:42:05-04:00"
+   "posted": "2026-10-29T14:41:21-04:00"
   },
   {
    "score": 69,
@@ -736,7 +703,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:38:36-04:00"
+   "posted": "2026-10-29T14:38:25-04:00"
   },
   {
    "score": 68,
@@ -761,7 +728,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:51:59-04:00"
+   "posted": "2026-10-29T14:50:46-04:00"
   },
   {
    "score": 68,
@@ -959,7 +926,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:45:36-04:00"
+   "posted": "2026-10-29T14:44:41-04:00"
   },
   {
    "score": 66,
@@ -1066,33 +1033,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-28T14:37:14-04:00"
-  },
-  {
-   "score": 63,
-   "fit": 26,
-   "title": "Senior Director, Policy Communications",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States; Washington, District of Columbia, United States",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$294k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8082263?gh_jid=8082263",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "content",
-    "influencer",
-    "release",
-    "risk"
-   ],
-   "gaps": [
-    "social media",
-    "community"
-   ],
-   "posted": "2026-10-28T14:45:34-04:00"
+   "posted": "2026-10-29T14:37:07-04:00"
   },
   {
    "score": 63,
@@ -1122,7 +1063,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-28T14:50:05-04:00"
+   "posted": "2026-10-29T14:49:02-04:00"
   },
   {
    "score": 62,
@@ -1242,7 +1183,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:52:01-04:00"
+   "posted": "2026-10-29T14:50:48-04:00"
   },
   {
    "score": 59,
@@ -1270,7 +1211,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-28T14:49:01-04:00"
+   "posted": "2026-10-29T14:48:02-04:00"
   },
   {
    "score": 58,
@@ -1351,7 +1292,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:38:08-04:00"
+   "posted": "2026-10-29T14:38:02-04:00"
   },
   {
    "score": 58,
@@ -1403,7 +1344,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-10-28T14:43:21-04:00"
+   "posted": "2026-10-29T14:42:32-04:00"
   },
   {
    "score": 57,
@@ -1614,7 +1555,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:40:40-04:00"
+   "posted": "2026-10-29T02:36:19-04:00"
   },
   {
    "score": 55,
@@ -1638,7 +1579,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-10-28T14:50:18-04:00"
+   "posted": "2026-10-29T14:49:14-04:00"
   },
   {
    "score": 55,
@@ -1660,7 +1601,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:39:52-04:00"
+   "posted": "2026-10-29T14:39:29-04:00"
   },
   {
    "score": 55,
@@ -1682,7 +1623,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T02:49:06-04:00"
+   "posted": "2026-10-29T14:47:29-04:00"
   },
   {
    "score": 54,
@@ -1793,7 +1734,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:49:42-04:00"
+   "posted": "2026-10-29T14:48:41-04:00"
   },
   {
    "score": 53,
@@ -1818,7 +1759,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:51:06-04:00"
+   "posted": "2026-10-29T14:49:57-04:00"
   },
   {
    "score": 53,
@@ -1843,7 +1784,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:42:27-04:00"
+   "posted": "2026-10-29T14:41:44-04:00"
   },
   {
    "score": 53,
@@ -1868,7 +1809,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-10-28T14:40:44-04:00"
+   "posted": "2026-10-29T02:36:23-04:00"
   },
   {
    "score": 52,
