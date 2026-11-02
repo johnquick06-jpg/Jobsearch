@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T18:44:40+00:00",
- "count": 78,
+ "updated": "2026-11-02T22:35:31+00:00",
+ "count": 77,
  "jobs": [
   {
    "score": 98,
@@ -29,7 +29,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-11-01T02:14:12-05:00"
+   "posted": "2026-11-02T13:24:05-05:00"
   },
   {
    "score": 93,
@@ -57,7 +57,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-11-01T01:43:12-05:00"
+   "posted": "2026-11-02T14:41:35-05:00"
   },
   {
    "score": 88,
@@ -86,7 +86,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-01T01:38:24-05:00"
+   "posted": "2026-11-02T14:36:22-05:00"
   },
   {
    "score": 86,
@@ -149,36 +149,6 @@
    "posted": "2026-10-13T20:05:20-04:00"
   },
   {
-   "score": 80,
-   "fit": 75,
-   "title": "Marketing Manager, MENAT",
-   "company": "roblox",
-   "location": "Remote",
-   "mode": "Remote",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://careers.roblox.com/jobs/8230980?gh_jid=8230980",
-   "source": "Greenhouse",
-   "matched": [
-    "agile",
-    "content",
-    "influencer",
-    "launch",
-    "localization",
-    "marketing",
-    "stakeholder"
-   ],
-   "gaps": [
-    "budget",
-    "social media",
-    "community",
-    "mobile"
-   ],
-   "posted": "2026-10-20T17:19:23-04:00"
-  },
-  {
    "score": 78,
    "fit": 90,
    "title": "Integrated Marketing Manager (Short Term) ",
@@ -234,7 +204,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-01T01:40:53-05:00"
+   "posted": "2026-11-02T14:39:04-05:00"
   },
   {
    "score": 75,
@@ -403,7 +373,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-01T01:41:25-05:00"
+   "posted": "2026-11-02T14:39:39-05:00"
   },
   {
    "score": 72,
@@ -497,6 +467,32 @@
   {
    "score": 70,
    "fit": 75,
+   "title": "Senior Technical Producer - Central Technology, Infrastructure Platform",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8338268?gh_jid=8338268",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "jira",
+    "launch",
+    "live-service",
+    "milestone",
+    "risk",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [],
+   "posted": "2026-11-02T17:30:35-05:00"
+  },
+  {
+   "score": 70,
+   "fit": 75,
    "title": "Sr. Principal Technical Producer - Developer Connections",
    "company": "riotgames",
    "location": "Los Angeles, USA",
@@ -572,7 +568,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:36:17-05:00"
+   "posted": "2026-11-02T14:33:57-05:00"
   },
   {
    "score": 69,
@@ -598,7 +594,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:41:00-05:00"
+   "posted": "2026-11-02T14:39:13-05:00"
   },
   {
    "score": 69,
@@ -729,7 +725,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:38:26-05:00"
+   "posted": "2026-11-02T14:36:24-05:00"
   },
   {
    "score": 68,
@@ -754,7 +750,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:48:58-05:00"
+   "posted": "2026-11-02T14:47:57-05:00"
   },
   {
    "score": 68,
@@ -952,7 +948,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:43:54-05:00"
+   "posted": "2026-11-02T14:42:22-05:00"
   },
   {
    "score": 66,
@@ -1037,32 +1033,6 @@
   },
   {
    "score": 63,
-   "fit": 26,
-   "title": "Facilities Project Manager",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "Remote",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$136k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8292641?gh_jid=8292641",
-   "source": "Greenhouse",
-   "matched": [
-    "agile",
-    "cross-functional",
-    "milestone",
-    "risk",
-    "stakeholder"
-   ],
-   "gaps": [
-    "budget",
-    "community"
-   ],
-   "posted": "2026-11-01T01:37:20-05:00"
-  },
-  {
-   "score": 63,
    "fit": 45,
    "title": "Senior Program Manager",
    "company": "roblox",
@@ -1089,7 +1059,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-11-01T01:47:26-05:00"
+   "posted": "2026-11-02T14:46:16-05:00"
   },
   {
    "score": 62,
@@ -1209,7 +1179,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:49:00-05:00"
+   "posted": "2026-11-02T14:47:59-05:00"
   },
   {
    "score": 59,
@@ -1237,7 +1207,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-01T01:46:30-05:00"
+   "posted": "2026-11-02T14:45:19-05:00"
   },
   {
    "score": 58,
@@ -1292,7 +1262,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:38:07-05:00"
+   "posted": "2026-11-02T14:35:58-05:00"
   },
   {
    "score": 58,
@@ -1344,7 +1314,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-01T01:42:03-05:00"
+   "posted": "2026-11-02T14:40:20-05:00"
   },
   {
    "score": 57,
@@ -1507,7 +1477,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-30T09:53:21-04:00"
+   "posted": "2026-11-02T09:41:44-05:00"
   },
   {
    "score": 55,
@@ -1555,7 +1525,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:39:56-05:00"
+   "posted": "2026-11-02T14:38:02-05:00"
   },
   {
    "score": 55,
@@ -1579,7 +1549,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-01T01:47:37-05:00"
+   "posted": "2026-11-02T14:46:28-05:00"
   },
   {
    "score": 55,
@@ -1601,7 +1571,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:39:21-05:00"
+   "posted": "2026-11-02T14:37:24-05:00"
   },
   {
    "score": 55,
@@ -1623,7 +1593,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:46:10-05:00"
+   "posted": "2026-11-02T14:44:57-05:00"
   },
   {
    "score": 54,
@@ -1734,7 +1704,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:47:06-05:00"
+   "posted": "2026-11-02T14:45:55-05:00"
   },
   {
    "score": 53,
@@ -1759,7 +1729,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:48:16-05:00"
+   "posted": "2026-11-02T14:47:11-05:00"
   },
   {
    "score": 53,
@@ -1784,7 +1754,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:41:20-05:00"
+   "posted": "2026-11-02T14:39:34-05:00"
   },
   {
    "score": 53,
@@ -1809,7 +1779,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-01T01:39:59-05:00"
+   "posted": "2026-11-02T14:38:06-05:00"
   },
   {
    "score": 52,
