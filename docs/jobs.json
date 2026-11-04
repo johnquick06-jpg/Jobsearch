@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T20:24:36+00:00",
- "count": 77,
+ "updated": "2026-11-04T20:39:40+00:00",
+ "count": 80,
  "jobs": [
   {
    "score": 98,
@@ -57,7 +57,7 @@
     "community",
     "playable"
    ],
-   "posted": "2026-11-03T15:02:52-05:00"
+   "posted": "2026-11-04T14:40:53-05:00"
   },
   {
    "score": 88,
@@ -86,7 +86,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-03T14:57:18-05:00"
+   "posted": "2026-11-04T14:35:28-05:00"
   },
   {
    "score": 86,
@@ -150,6 +150,35 @@
   },
   {
    "score": 78,
+   "fit": 72,
+   "title": "Playtest Operations Producer - Global Research Operations",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8338311?gh_jid=8338311",
+   "source": "Greenhouse",
+   "matched": [
+    "agile",
+    "cross-functional",
+    "jira",
+    "miro",
+    "production",
+    "risk",
+    "roadmap",
+    "scrum"
+   ],
+   "gaps": [
+    "crm",
+    "mobile"
+   ],
+   "posted": "2026-11-03T16:35:00-05:00"
+  },
+  {
+   "score": 78,
    "fit": 90,
    "title": "Integrated Marketing Manager (Short Term) ",
    "company": "roblox",
@@ -204,7 +233,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-03T14:59:56-05:00"
+   "posted": "2026-11-04T14:38:11-05:00"
   },
   {
    "score": 75,
@@ -373,7 +402,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-03T15:00:34-05:00"
+   "posted": "2026-11-04T14:38:48-05:00"
   },
   {
    "score": 72,
@@ -568,7 +597,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T14:55:04-05:00"
+   "posted": "2026-11-04T02:36:48-05:00"
   },
   {
    "score": 69,
@@ -594,7 +623,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T15:00:05-05:00"
+   "posted": "2026-11-04T14:38:19-05:00"
   },
   {
    "score": 69,
@@ -725,7 +754,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T14:57:20-05:00"
+   "posted": "2026-11-04T14:35:30-05:00"
   },
   {
    "score": 68,
@@ -750,7 +779,33 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T15:09:07-05:00"
+   "posted": "2026-11-04T14:46:51-05:00"
+  },
+  {
+   "score": 68,
+   "fit": 36,
+   "title": "Corporate Finance Manager",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$113k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5427814008?gh_jid=5427814008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "launch",
+    "risk",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-11-03T20:51:36-05:00"
   },
   {
    "score": 68,
@@ -929,6 +984,33 @@
   },
   {
    "score": 66,
+   "fit": 51,
+   "title": "Product Designer, Marketing Systems",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$177k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8240434?gh_jid=8240434",
+   "source": "Greenhouse",
+   "matched": [
+    "adobe",
+    "creative",
+    "cross-functional",
+    "marketing",
+    "stakeholder"
+   ],
+   "gaps": [
+    "figma",
+    "community",
+    "mobile"
+   ],
+   "posted": "2026-11-04T14:54:39-05:00"
+  },
+  {
+   "score": 66,
    "fit": 32,
    "title": "Senior/Principal Product Manager, Engine Networking",
    "company": "roblox",
@@ -948,7 +1030,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T15:03:39-05:00"
+   "posted": "2026-11-04T14:41:39-05:00"
   },
   {
    "score": 66,
@@ -1059,7 +1141,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-11-03T15:07:28-05:00"
+   "posted": "2026-11-04T14:45:04-05:00"
   },
   {
    "score": 62,
@@ -1179,7 +1261,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T15:09:09-05:00"
+   "posted": "2026-11-04T14:46:53-05:00"
   },
   {
    "score": 59,
@@ -1207,7 +1289,33 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-03T15:06:28-05:00"
+   "posted": "2026-11-04T14:44:08-05:00"
+  },
+  {
+   "score": 59,
+   "fit": 38,
+   "title": "Manager, Product Support Operations",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$174k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8351202?gh_jid=8351202",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "cross-functional",
+    "launch",
+    "marketing",
+    "release",
+    "roadmap"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-11-04T14:31:23-05:00"
   },
   {
    "score": 58,
@@ -1262,34 +1370,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T14:56:59-05:00"
-  },
-  {
-   "score": 58,
-   "fit": 36,
-   "title": "Senior Technology Auditor",
-   "company": "scopely",
-   "location": "US - Culver City, California, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$113k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/scopely/jobs/5412856008?gh_jid=5412856008",
-   "source": "Greenhouse",
-   "matched": [
-    "pipeline",
-    "release",
-    "risk",
-    "stakeholder",
-    "video"
-   ],
-   "gaps": [
-    "sql",
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-10-30T09:50:28-04:00"
+   "posted": "2026-11-04T14:35:10-05:00"
   },
   {
    "score": 57,
@@ -1314,7 +1395,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-03T15:01:29-05:00"
+   "posted": "2026-11-04T14:39:34-05:00"
   },
   {
    "score": 57,
@@ -1525,7 +1606,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T14:58:58-05:00"
+   "posted": "2026-11-04T14:37:10-05:00"
   },
   {
    "score": 55,
@@ -1549,7 +1630,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-03T15:07:40-05:00"
+   "posted": "2026-11-04T14:45:17-05:00"
   },
   {
    "score": 55,
@@ -1571,7 +1652,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T14:58:21-05:00"
+   "posted": "2026-11-04T14:36:30-05:00"
   },
   {
    "score": 55,
@@ -1593,7 +1674,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T15:06:07-05:00"
+   "posted": "2026-11-04T14:43:51-05:00"
   },
   {
    "score": 54,
@@ -1682,29 +1763,28 @@
   },
   {
    "score": 54,
-   "fit": 28,
-   "title": "Localization Program Manager",
+   "fit": 27,
+   "title": "User Researcher",
    "company": "roblox",
    "location": "San Mateo, CA, United States",
    "mode": "On-site",
    "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "$167k",
+   "salary": "$172k",
    "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/7813041?gh_jid=7813041",
+   "url": "https://careers.roblox.com/jobs/8317583?gh_jid=8317583",
    "source": "Greenhouse",
    "matched": [
-    "content",
     "cross-functional",
-    "localization",
-    "production",
+    "marketing",
     "roadmap",
     "stakeholder"
    ],
    "gaps": [
+    "sql",
     "community"
    ],
-   "posted": "2026-11-03T15:07:07-05:00"
+   "posted": "2026-11-04T14:32:36-05:00"
   },
   {
    "score": 53,
@@ -1729,7 +1809,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T15:08:21-05:00"
+   "posted": "2026-11-04T14:46:00-05:00"
   },
   {
    "score": 53,
@@ -1754,7 +1834,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T15:00:28-05:00"
+   "posted": "2026-11-04T14:38:42-05:00"
   },
   {
    "score": 53,
@@ -1779,7 +1859,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-03T14:37:02-05:00"
+   "posted": "2026-11-04T14:37:14-05:00"
   },
   {
    "score": 52,
