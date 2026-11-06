@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T20:55:59+00:00",
- "count": 79,
+ "updated": "2026-11-06T20:14:45+00:00",
+ "count": 76,
  "jobs": [
   {
    "score": 98,
@@ -32,34 +32,6 @@
    "posted": "2026-11-02T13:24:05-05:00"
   },
   {
-   "score": 93,
-   "fit": 85,
-   "title": "Principal Product Marketing Manager, Foundation AI",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$264k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8106059?gh_jid=8106059",
-   "source": "Greenhouse",
-   "matched": [
-    "creative",
-    "cross-functional",
-    "launch",
-    "marketing",
-    "production",
-    "roadmap",
-    "video"
-   ],
-   "gaps": [
-    "community",
-    "playable"
-   ],
-   "posted": "2026-11-05T14:40:57-05:00"
-  },
-  {
    "score": 88,
    "fit": 96,
    "title": "Senior Live Ops Producer",
@@ -86,66 +58,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-05T14:35:23-05:00"
-  },
-  {
-   "score": 86,
-   "fit": 92,
-   "title": "Senior Growth Marketing Manager ",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$176k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/7977893?gh_jid=7977893",
-   "source": "Greenhouse",
-   "matched": [
-    "content",
-    "creative",
-    "cross-functional",
-    "influencer",
-    "marketing",
-    "performance marketing",
-    "risk",
-    "roadmap"
-   ],
-   "gaps": [
-    "sql",
-    "ltv",
-    "community"
-   ],
-   "posted": "2026-10-13T20:05:20-04:00"
-  },
-  {
-   "score": 78,
-   "fit": 72,
-   "title": "Playtest Operations Producer - Global Research Operations",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8338311?gh_jid=8338311",
-   "source": "Greenhouse",
-   "matched": [
-    "agile",
-    "cross-functional",
-    "jira",
-    "miro",
-    "production",
-    "risk",
-    "roadmap",
-    "scrum"
-   ],
-   "gaps": [
-    "crm",
-    "mobile"
-   ],
-   "posted": "2026-11-03T16:35:00-05:00"
+   "posted": "2026-11-06T14:35:51-05:00"
   },
   {
    "score": 78,
@@ -203,7 +116,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-05T14:38:04-05:00"
+   "posted": "2026-11-06T14:38:27-05:00"
   },
   {
    "score": 75,
@@ -344,7 +257,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-05T14:38:43-05:00"
+   "posted": "2026-11-06T14:38:58-05:00"
   },
   {
    "score": 72,
@@ -513,7 +426,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-30T09:44:15-04:00"
+   "posted": "2026-11-06T09:16:10-05:00"
   },
   {
    "score": 69,
@@ -539,7 +452,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:33:11-05:00"
+   "posted": "2026-11-06T14:33:39-05:00"
   },
   {
    "score": 69,
@@ -565,7 +478,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:38:14-05:00"
+   "posted": "2026-11-06T14:38:36-05:00"
   },
   {
    "score": 69,
@@ -696,7 +609,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:35:25-05:00"
+   "posted": "2026-11-06T02:39:29-05:00"
   },
   {
    "score": 68,
@@ -721,7 +634,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:47:11-05:00"
+   "posted": "2026-11-06T02:50:03-05:00"
   },
   {
    "score": 68,
@@ -949,7 +862,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-05T14:36:13-05:00"
+   "posted": "2026-11-06T14:36:39-05:00"
   },
   {
    "score": 66,
@@ -972,7 +885,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:41:53-05:00"
+   "posted": "2026-11-06T14:41:35-05:00"
   },
   {
    "score": 66,
@@ -1173,7 +1086,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:47:13-05:00"
+   "posted": "2026-11-06T02:50:05-05:00"
   },
   {
    "score": 59,
@@ -1201,7 +1114,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-05T14:44:36-05:00"
+   "posted": "2026-11-06T14:44:19-05:00"
   },
   {
    "score": 59,
@@ -1227,7 +1140,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:31:23-05:00"
+   "posted": "2026-11-06T14:31:54-05:00"
   },
   {
    "score": 58,
@@ -1282,7 +1195,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:35:04-05:00"
+   "posted": "2026-11-06T14:35:33-05:00"
   },
   {
    "score": 57,
@@ -1307,7 +1220,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-05T14:39:28-05:00"
+   "posted": "2026-11-06T14:39:40-05:00"
   },
   {
    "score": 57,
@@ -1475,6 +1388,32 @@
   {
    "score": 55,
    "fit": 45,
+   "title": "Associate Art Director - League Cosmetics",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8214979?gh_jid=8214979",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "live-service",
+    "marketing",
+    "pipeline",
+    "production",
+    "release",
+    "roadmap"
+   ],
+   "gaps": [],
+   "posted": "2026-11-05T19:00:47-05:00"
+  },
+  {
+   "score": 55,
+   "fit": 45,
    "title": "Sr. Manager, Audio Direction - Unpublished R&D Product",
    "company": "riotgames",
    "location": "Los Angeles, USA",
@@ -1518,7 +1457,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:37:02-05:00"
+   "posted": "2026-11-06T14:37:30-05:00"
   },
   {
    "score": 55,
@@ -1542,7 +1481,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-05T14:45:40-05:00"
+   "posted": "2026-11-06T02:48:35-05:00"
   },
   {
    "score": 55,
@@ -1564,7 +1503,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:36:25-05:00"
+   "posted": "2026-11-06T14:36:51-05:00"
   },
   {
    "score": 55,
@@ -1586,7 +1525,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:44:22-05:00"
+   "posted": "2026-11-06T14:44:07-05:00"
   },
   {
    "score": 54,
@@ -1646,35 +1585,6 @@
   },
   {
    "score": 54,
-   "fit": 43,
-   "title": "Sr. Manager, Game Production - VALORANT, Maps",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8316719?gh_jid=8316719",
-   "source": "Greenhouse",
-   "matched": [
-    "content",
-    "creative",
-    "milestone",
-    "pipeline",
-    "production",
-    "release",
-    "risk",
-    "roadmap"
-   ],
-   "gaps": [
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-11-02T20:05:42-05:00"
-  },
-  {
-   "score": 54,
    "fit": 27,
    "title": "User Researcher",
    "company": "roblox",
@@ -1696,7 +1606,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-05T14:32:39-05:00"
+   "posted": "2026-11-06T14:33:08-05:00"
   },
   {
    "score": 53,
@@ -1721,7 +1631,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-11-05T15:34:00-05:00"
+   "posted": "2026-11-05T18:07:18-05:00"
   },
   {
    "score": 53,
@@ -1746,7 +1656,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:46:24-05:00"
+   "posted": "2026-11-06T14:46:10-05:00"
   },
   {
    "score": 53,
@@ -1771,7 +1681,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:38:36-05:00"
+   "posted": "2026-11-06T14:38:54-05:00"
   },
   {
    "score": 53,
@@ -1796,7 +1706,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T02:40:45-05:00"
+   "posted": "2026-11-06T14:37:32-05:00"
   },
   {
    "score": 52,
