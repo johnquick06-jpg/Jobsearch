@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T20:14:45+00:00",
- "count": 76,
+ "updated": "2026-11-07T18:27:49+00:00",
+ "count": 75,
  "jobs": [
   {
    "score": 98,
@@ -609,7 +609,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-06T02:39:29-05:00"
+   "posted": "2026-11-06T14:35:53-05:00"
   },
   {
    "score": 68,
@@ -634,7 +634,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-06T02:50:03-05:00"
+   "posted": "2026-11-06T14:46:56-05:00"
   },
   {
    "score": 68,
@@ -1086,7 +1086,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-06T02:50:05-05:00"
+   "posted": "2026-11-06T14:46:58-05:00"
   },
   {
    "score": 59,
@@ -1245,7 +1245,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-10-30T09:53:01-04:00"
+   "posted": "2026-11-07T03:47:16-05:00"
   },
   {
    "score": 57,
@@ -1481,7 +1481,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-06T02:48:35-05:00"
+   "posted": "2026-11-06T14:45:28-05:00"
   },
   {
    "score": 55,
@@ -1784,32 +1784,6 @@
    ],
    "gaps": [],
    "posted": "2026-10-30T09:19:34-04:00"
-  },
-  {
-   "score": 52,
-   "fit": 36,
-   "title": "Product Operations Manager",
-   "company": "twitch",
-   "location": "Los Angeles, CA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$102k",
-   "salary_tag": "Near floor",
-   "url": "https://job-boards.greenhouse.io/twitch/jobs/8900708002",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "content",
-    "influencer",
-    "marketing",
-    "pipeline"
-   ],
-   "gaps": [
-    "community",
-    "influencer marketing"
-   ],
-   "posted": "2026-10-21T13:55:30-04:00"
   },
   {
    "score": 51,
