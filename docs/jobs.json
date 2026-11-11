@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T20:42:13+00:00",
- "count": 76,
+ "updated": "2026-11-11T21:03:12+00:00",
+ "count": 73,
  "jobs": [
   {
    "score": 98,
@@ -58,7 +58,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-10T02:38:21-05:00"
+   "posted": "2026-11-11T14:37:50-05:00"
   },
   {
    "score": 78,
@@ -116,7 +116,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-10T14:41:02-05:00"
+   "posted": "2026-11-11T14:40:26-05:00"
   },
   {
    "score": 75,
@@ -149,34 +149,32 @@
    "posted": "2026-10-30T09:46:27-04:00"
   },
   {
-   "score": 73,
-   "fit": 81,
-   "title": "Principal Creative Director, Growth Marketing & Lifecycle ",
+   "score": 74,
+   "fit": 68,
+   "title": "Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027",
    "company": "riotgames",
    "location": "Los Angeles, USA",
    "mode": "On-site",
    "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8229332?gh_jid=8229332",
+   "salary": "$114k (converted from hourly)",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8356876?gh_jid=8356876",
    "source": "Greenhouse",
    "matched": [
+    "agile",
+    "content",
     "creative",
     "cross-functional",
-    "localization",
-    "marketing",
-    "milestone",
-    "performance marketing",
-    "pipeline",
-    "production"
+    "production",
+    "roadmap",
+    "scrum",
+    "stakeholder"
    ],
    "gaps": [
-    "community",
-    "creative testing",
-    "mobile"
+    "community"
    ],
-   "posted": "2026-10-30T09:16:43-04:00"
+   "posted": "2026-11-11T14:58:07-05:00"
   },
   {
    "score": 73,
@@ -228,7 +226,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-11-10T02:31:06-05:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 72,
@@ -257,7 +255,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-10T14:41:32-05:00"
+   "posted": "2026-11-11T14:40:58-05:00"
   },
   {
    "score": 72,
@@ -346,7 +344,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-30T08:58:14-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 70,
@@ -372,7 +370,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-11-02T17:30:35-05:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 70,
@@ -398,7 +396,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:05:44-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 70,
@@ -452,7 +450,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:35:42-05:00"
+   "posted": "2026-11-11T14:35:43-05:00"
   },
   {
    "score": 69,
@@ -478,7 +476,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:41:10-05:00"
+   "posted": "2026-11-11T14:40:36-05:00"
   },
   {
    "score": 69,
@@ -584,7 +582,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:18:11-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 68,
@@ -609,7 +607,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:38:13-05:00"
+   "posted": "2026-11-11T14:37:53-05:00"
   },
   {
    "score": 68,
@@ -634,7 +632,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:49:20-05:00"
+   "posted": "2026-11-11T14:48:22-05:00"
   },
   {
    "score": 68,
@@ -785,7 +783,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:33:24-05:00"
+   "posted": "2026-11-11T14:33:30-05:00"
   },
   {
    "score": 67,
@@ -886,7 +884,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-10T14:39:05-05:00"
+   "posted": "2026-11-11T14:38:38-05:00"
   },
   {
    "score": 66,
@@ -909,7 +907,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:44:13-05:00"
+   "posted": "2026-11-11T14:43:35-05:00"
   },
   {
    "score": 66,
@@ -1012,7 +1010,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:14:21-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 62,
@@ -1063,7 +1061,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-10-30T08:52:03-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 61,
@@ -1088,7 +1086,7 @@
    "gaps": [
     "mobile"
    ],
-   "posted": "2026-10-30T09:32:42-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 60,
@@ -1114,31 +1112,7 @@
     "publishing"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:55:33-04:00"
-  },
-  {
-   "score": 59,
-   "fit": 34,
-   "title": "Director of Public Policy, UAE/Middle East",
-   "company": "roblox",
-   "location": "Remote",
-   "mode": "Remote",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://careers.roblox.com/jobs/7832171?gh_jid=7832171",
-   "source": "Greenhouse",
-   "matched": [
-    "creative",
-    "cross-functional",
-    "risk",
-    "stakeholder"
-   ],
-   "gaps": [
-    "community"
-   ],
-   "posted": "2026-11-10T14:49:22-05:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 59,
@@ -1166,7 +1140,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-10T14:46:52-05:00"
+   "posted": "2026-11-11T14:46:02-05:00"
   },
   {
    "score": 59,
@@ -1192,37 +1166,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:33:51-05:00"
-  },
-  {
-   "score": 58,
-   "fit": 51,
-   "title": "Sr. Community Management Lead - Riftbound",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8194780?gh_jid=8194780",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "content",
-    "creative",
-    "cross-functional",
-    "influencer",
-    "launch",
-    "live-service",
-    "marketing"
-   ],
-   "gaps": [
-    "social media",
-    "community",
-    "pr"
-   ],
-   "posted": "2026-10-30T09:23:24-04:00"
+   "posted": "2026-11-11T14:33:58-05:00"
   },
   {
    "score": 58,
@@ -1247,7 +1191,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:37:53-05:00"
+   "posted": "2026-11-11T14:37:36-05:00"
   },
   {
    "score": 57,
@@ -1272,7 +1216,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-10T14:42:16-05:00"
+   "posted": "2026-11-11T14:41:39-05:00"
   },
   {
    "score": 57,
@@ -1378,7 +1322,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-10-30T09:04:02-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 56,
@@ -1406,7 +1350,7 @@
     "looker",
     "sql"
    ],
-   "posted": "2026-10-08T21:33:21-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 56,
@@ -1461,7 +1405,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-11-05T19:00:47-05:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 55,
@@ -1487,7 +1431,7 @@
     "production"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:58:25-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 55,
@@ -1509,7 +1453,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:39:57-05:00"
+   "posted": "2026-11-11T14:39:27-05:00"
   },
   {
    "score": 55,
@@ -1533,7 +1477,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-10T14:47:52-05:00"
+   "posted": "2026-11-11T14:47:00-05:00"
   },
   {
    "score": 55,
@@ -1555,7 +1499,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:39:18-05:00"
+   "posted": "2026-11-11T14:38:51-05:00"
   },
   {
    "score": 55,
@@ -1577,7 +1521,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:46:40-05:00"
+   "posted": "2026-11-11T14:45:50-05:00"
   },
   {
    "score": 54,
@@ -1605,7 +1549,7 @@
    "gaps": [
     "crm"
    ],
-   "posted": "2026-10-30T09:07:32-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 54,
@@ -1633,7 +1577,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-05T14:49:27-05:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 54,
@@ -1658,7 +1602,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-10T02:35:40-05:00"
+   "posted": "2026-11-11T14:35:14-05:00"
   },
   {
    "score": 53,
@@ -1683,7 +1627,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-11-05T18:07:18-05:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 53,
@@ -1708,7 +1652,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:48:35-05:00"
+   "posted": "2026-11-11T14:47:39-05:00"
   },
   {
    "score": 53,
@@ -1733,7 +1677,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:41:29-05:00"
+   "posted": "2026-11-11T14:40:56-05:00"
   },
   {
    "score": 53,
@@ -1758,7 +1702,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-10T14:39:59-05:00"
+   "posted": "2026-11-11T14:39:29-05:00"
   },
   {
    "score": 52,
@@ -1784,7 +1728,7 @@
    "gaps": [
     "sql"
    ],
-   "posted": "2026-10-30T09:02:54-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 52,
@@ -1808,7 +1752,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:19:34-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 51,
@@ -1831,7 +1775,7 @@
     "production"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:51:13-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 51,
@@ -1854,29 +1798,7 @@
     "stakeholder"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:57:03-04:00"
-  },
-  {
-   "score": 50,
-   "fit": 34,
-   "title": "Manager, Narrative Writing - League of Legends",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8187620?gh_jid=8187620",
-   "source": "Greenhouse",
-   "matched": [
-    "content",
-    "creative",
-    "release",
-    "stakeholder"
-   ],
-   "gaps": [],
-   "posted": "2026-10-30T09:23:53-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 49,
@@ -1901,7 +1823,7 @@
     "sql",
     "cpi"
    ],
-   "posted": "2026-10-30T09:53:54-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 47,
@@ -1921,7 +1843,7 @@
     "roadmap"
    ],
    "gaps": [],
-   "posted": "2026-11-05T15:29:27-05:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 47,
@@ -1941,7 +1863,7 @@
     "production"
    ],
    "gaps": [],
-   "posted": "2026-10-30T14:17:30-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   },
   {
    "score": 46,
@@ -1960,7 +1882,7 @@
     "risk"
    ],
    "gaps": [],
-   "posted": "2026-10-30T09:30:20-04:00"
+   "posted": "2026-11-10T22:13:32-05:00"
   }
  ]
 }
