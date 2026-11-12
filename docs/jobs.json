@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:03:12+00:00",
+ "updated": "2026-11-12T21:17:51+00:00",
  "count": 73,
  "jobs": [
   {
@@ -58,7 +58,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-11T14:37:50-05:00"
+   "posted": "2026-11-12T02:37:57-05:00"
   },
   {
    "score": 78,
@@ -116,7 +116,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-11T14:40:26-05:00"
+   "posted": "2026-11-12T14:40:39-05:00"
   },
   {
    "score": 75,
@@ -174,7 +174,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:58:07-05:00"
+   "posted": "2026-11-12T02:46:24-05:00"
   },
   {
    "score": 73,
@@ -255,7 +255,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-11T14:40:58-05:00"
+   "posted": "2026-11-12T14:41:09-05:00"
   },
   {
    "score": 72,
@@ -450,33 +450,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:35:43-05:00"
-  },
-  {
-   "score": 69,
-   "fit": 38,
-   "title": "Senior/Principal Product Manager, Video Generation (Roblox Reality) ",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$331k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8180420?gh_jid=8180420",
-   "source": "Greenhouse",
-   "matched": [
-    "creative",
-    "launch",
-    "production",
-    "roadmap",
-    "stakeholder",
-    "video"
-   ],
-   "gaps": [
-    "community"
-   ],
-   "posted": "2026-11-11T14:40:36-05:00"
+   "posted": "2026-11-12T14:35:46-05:00"
   },
   {
    "score": 69,
@@ -607,7 +581,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:37:53-05:00"
+   "posted": "2026-11-12T14:38:04-05:00"
   },
   {
    "score": 68,
@@ -632,7 +606,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:48:22-05:00"
+   "posted": "2026-11-12T14:48:17-05:00"
   },
   {
    "score": 68,
@@ -783,7 +757,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:33:30-05:00"
+   "posted": "2026-11-12T14:33:41-05:00"
   },
   {
    "score": 67,
@@ -838,29 +812,6 @@
   },
   {
    "score": 66,
-   "fit": 32,
-   "title": "Senior Stock Administrator",
-   "company": "discord",
-   "location": "San Francisco Bay Area or Remote (U.S.)",
-   "mode": "Remote",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$132k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/discord/jobs/8757366002",
-   "source": "Greenhouse",
-   "matched": [
-    "release",
-    "stakeholder",
-    "video"
-   ],
-   "gaps": [
-    "community"
-   ],
-   "posted": "2026-11-09T09:48:09-05:00"
-  },
-  {
-   "score": 66,
    "fit": 51,
    "title": "Product Designer, Marketing Systems",
    "company": "roblox",
@@ -884,7 +835,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-11T14:38:38-05:00"
+   "posted": "2026-11-12T14:38:47-05:00"
   },
   {
    "score": 66,
@@ -907,7 +858,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:43:35-05:00"
+   "posted": "2026-11-12T14:43:44-05:00"
   },
   {
    "score": 66,
@@ -934,6 +885,31 @@
     "mobile"
    ],
    "posted": "2026-11-10T10:31:10-05:00"
+  },
+  {
+   "score": 66,
+   "fit": 32,
+   "title": "Senior Legal Operations Manager",
+   "company": "scopely",
+   "location": "US - Culver City, California, United States",
+   "mode": "Hybrid",
+   "org": "Studio/Publisher",
+   "type": "Contract",
+   "salary": "$140k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5476775008?gh_jid=5476775008",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "stakeholder",
+    "video"
+   ],
+   "gaps": [
+    "budget",
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-11-12T12:55:21-05:00"
   },
   {
    "score": 65,
@@ -1140,7 +1116,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-11T14:46:02-05:00"
+   "posted": "2026-11-12T14:46:06-05:00"
   },
   {
    "score": 59,
@@ -1166,7 +1142,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:33:58-05:00"
+   "posted": "2026-11-12T14:34:08-05:00"
   },
   {
    "score": 58,
@@ -1191,7 +1167,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:37:36-05:00"
+   "posted": "2026-11-12T14:37:47-05:00"
   },
   {
    "score": 57,
@@ -1216,7 +1192,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-11T14:41:39-05:00"
+   "posted": "2026-11-12T14:41:53-05:00"
   },
   {
    "score": 57,
@@ -1453,7 +1429,30 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:39:27-05:00"
+   "posted": "2026-11-12T14:39:40-05:00"
+  },
+  {
+   "score": 55,
+   "fit": 29,
+   "title": "Senior Data Analyst, Moderation Operations",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$168k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8332448?gh_jid=8332448",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "stakeholder"
+   ],
+   "gaps": [
+    "sql",
+    "community"
+   ],
+   "posted": "2026-11-12T14:38:34-05:00"
   },
   {
    "score": 55,
@@ -1477,7 +1476,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-11T14:47:00-05:00"
+   "posted": "2026-11-12T14:47:03-05:00"
   },
   {
    "score": 55,
@@ -1499,7 +1498,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:38:51-05:00"
+   "posted": "2026-11-12T14:39:02-05:00"
   },
   {
    "score": 55,
@@ -1521,7 +1520,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:45:50-05:00"
+   "posted": "2026-11-12T14:45:53-05:00"
   },
   {
    "score": 54,
@@ -1602,7 +1601,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-11T14:35:14-05:00"
+   "posted": "2026-11-12T14:35:15-05:00"
   },
   {
    "score": 53,
@@ -1632,27 +1631,29 @@
   {
    "score": 53,
    "fit": 26,
-   "title": "Director of Business Development, Payments",
+   "title": "Account Manager ",
    "company": "roblox",
    "location": "San Mateo, CA, United States",
    "mode": "On-site",
    "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "$276k",
+   "salary": "$130k",
    "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/7604271?gh_jid=7604271",
+   "url": "https://careers.roblox.com/jobs/8357655?gh_jid=8357655",
    "source": "Greenhouse",
    "matched": [
+    "campaign",
+    "creative",
     "cross-functional",
-    "milestone",
-    "risk",
-    "roadmap",
-    "stakeholder"
+    "launch",
+    "marketing"
    ],
    "gaps": [
+    "budget",
+    "sql",
     "community"
    ],
-   "posted": "2026-11-11T14:47:39-05:00"
+   "posted": "2026-11-12T14:33:54-05:00"
   },
   {
    "score": 53,
@@ -1677,7 +1678,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:40:56-05:00"
+   "posted": "2026-11-12T14:41:06-05:00"
   },
   {
    "score": 53,
@@ -1702,7 +1703,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-11T14:39:29-05:00"
+   "posted": "2026-11-12T14:39:43-05:00"
   },
   {
    "score": 52,
