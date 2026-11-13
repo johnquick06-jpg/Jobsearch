@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T21:17:51+00:00",
- "count": 73,
+ "updated": "2026-11-13T20:45:06+00:00",
+ "count": 72,
  "jobs": [
   {
    "score": 98,
@@ -58,7 +58,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-12T02:37:57-05:00"
+   "posted": "2026-11-13T14:37:49-05:00"
   },
   {
    "score": 78,
@@ -116,7 +116,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-12T14:40:39-05:00"
+   "posted": "2026-11-13T14:40:13-05:00"
   },
   {
    "score": 75,
@@ -174,7 +174,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T02:46:24-05:00"
+   "posted": "2026-11-13T13:43:45-05:00"
   },
   {
    "score": 73,
@@ -255,7 +255,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-12T14:41:09-05:00"
+   "posted": "2026-11-13T14:40:39-05:00"
   },
   {
    "score": 72,
@@ -287,35 +287,6 @@
     "mobile"
    ],
    "posted": "2026-10-30T09:44:47-04:00"
-  },
-  {
-   "score": 72,
-   "fit": 45,
-   "title": "Senior Director of Product, Roadmap",
-   "company": "scopely",
-   "location": "CA - Canada; US - United States",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$223k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/scopely/jobs/5287656008?gh_jid=5287656008",
-   "source": "Greenhouse",
-   "matched": [
-    "creative",
-    "launch",
-    "live service",
-    "live-service",
-    "production",
-    "publishing",
-    "roadmap",
-    "stakeholder"
-   ],
-   "gaps": [
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-10-30T09:46:21-04:00"
   },
   {
    "score": 70,
@@ -450,7 +421,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:35:46-05:00"
+   "posted": "2026-11-13T02:36:09-05:00"
   },
   {
    "score": 69,
@@ -581,7 +552,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:38:04-05:00"
+   "posted": "2026-11-13T14:37:51-05:00"
   },
   {
    "score": 68,
@@ -606,7 +577,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:48:17-05:00"
+   "posted": "2026-11-13T14:48:06-05:00"
   },
   {
    "score": 68,
@@ -737,30 +708,6 @@
   },
   {
    "score": 67,
-   "fit": 54,
-   "title": "Principal Product Manager, Content Platform",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$331k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8364312?gh_jid=8364312",
-   "source": "Greenhouse",
-   "matched": [
-    "content",
-    "cross-functional",
-    "pipeline",
-    "roadmap"
-   ],
-   "gaps": [
-    "community"
-   ],
-   "posted": "2026-11-12T14:33:41-05:00"
-  },
-  {
-   "score": 67,
    "fit": 34,
    "title": "Sr. Manager, Finance Business Partner",
    "company": "scopely",
@@ -835,7 +782,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-12T14:38:47-05:00"
+   "posted": "2026-11-13T14:38:33-05:00"
   },
   {
    "score": 66,
@@ -858,7 +805,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:43:44-05:00"
+   "posted": "2026-11-13T14:43:13-05:00"
   },
   {
    "score": 66,
@@ -1116,7 +1063,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-12T14:46:06-05:00"
+   "posted": "2026-11-13T14:45:52-05:00"
   },
   {
    "score": 59,
@@ -1142,7 +1089,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:34:08-05:00"
+   "posted": "2026-11-13T14:34:07-05:00"
   },
   {
    "score": 58,
@@ -1167,7 +1114,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:37:47-05:00"
+   "posted": "2026-11-13T14:37:36-05:00"
   },
   {
    "score": 57,
@@ -1192,7 +1139,31 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-12T14:41:53-05:00"
+   "posted": "2026-11-13T14:41:20-05:00"
+  },
+  {
+   "score": 57,
+   "fit": 34,
+   "title": "Principal Product Manager, Creation Platform",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$331k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8364312?gh_jid=8364312",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "pipeline",
+    "roadmap"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-11-13T14:33:39-05:00"
   },
   {
    "score": 57,
@@ -1429,7 +1400,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:39:40-05:00"
+   "posted": "2026-11-13T14:39:18-05:00"
   },
   {
    "score": 55,
@@ -1452,7 +1423,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-12T14:38:34-05:00"
+   "posted": "2026-11-13T14:34:35-05:00"
   },
   {
    "score": 55,
@@ -1476,7 +1447,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-12T14:47:03-05:00"
+   "posted": "2026-11-13T14:46:55-05:00"
   },
   {
    "score": 55,
@@ -1498,7 +1469,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:39:02-05:00"
+   "posted": "2026-11-13T14:38:45-05:00"
   },
   {
    "score": 55,
@@ -1520,7 +1491,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:45:53-05:00"
+   "posted": "2026-11-13T14:45:40-05:00"
   },
   {
    "score": 54,
@@ -1581,6 +1552,27 @@
   {
    "score": 54,
    "fit": 27,
+   "title": "Senior Director, Tools & Automation, Creator Relations",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$299k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8359458?gh_jid=8359458",
+   "source": "Greenhouse",
+   "matched": [
+    "roadmap"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-11-13T14:34:53-05:00"
+  },
+  {
+   "score": 54,
+   "fit": 27,
    "title": "User Researcher",
    "company": "roblox",
    "location": "San Mateo, CA, United States",
@@ -1601,7 +1593,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-12T14:35:15-05:00"
+   "posted": "2026-11-13T14:35:16-05:00"
   },
   {
    "score": 53,
@@ -1653,7 +1645,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-12T14:33:54-05:00"
+   "posted": "2026-11-13T14:33:54-05:00"
   },
   {
    "score": 53,
@@ -1678,7 +1670,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:41:06-05:00"
+   "posted": "2026-11-13T14:40:37-05:00"
   },
   {
    "score": 53,
@@ -1703,7 +1695,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-12T14:39:43-05:00"
+   "posted": "2026-11-13T14:39:20-05:00"
   },
   {
    "score": 52,
@@ -1774,29 +1766,6 @@
     "live-service",
     "pipeline",
     "production"
-   ],
-   "gaps": [],
-   "posted": "2026-11-10T22:13:32-05:00"
-  },
-  {
-   "score": 51,
-   "fit": 36,
-   "title": "Principal Insights Analyst, AXE - Teamfight Tactics",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/7592030?gh_jid=7592030",
-   "source": "Greenhouse",
-   "matched": [
-    "cross-functional",
-    "live service",
-    "publishing",
-    "roadmap",
-    "stakeholder"
    ],
    "gaps": [],
    "posted": "2026-11-10T22:13:32-05:00"
