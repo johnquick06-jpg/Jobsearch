@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T20:45:06+00:00",
- "count": 72,
+ "updated": "2026-11-14T18:56:29+00:00",
+ "count": 71,
  "jobs": [
   {
    "score": 98,
@@ -421,7 +421,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-13T02:36:09-05:00"
+   "posted": "2026-11-13T14:35:48-05:00"
   },
   {
    "score": 69,
@@ -1163,7 +1163,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-13T14:33:39-05:00"
+   "posted": "2026-11-13T17:14:17-05:00"
   },
   {
    "score": 57,
@@ -1619,33 +1619,6 @@
    ],
    "gaps": [],
    "posted": "2026-11-10T22:13:32-05:00"
-  },
-  {
-   "score": 53,
-   "fit": 26,
-   "title": "Account Manager ",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$130k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8357655?gh_jid=8357655",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "creative",
-    "cross-functional",
-    "launch",
-    "marketing"
-   ],
-   "gaps": [
-    "budget",
-    "sql",
-    "community"
-   ],
-   "posted": "2026-11-13T14:33:54-05:00"
   },
   {
    "score": 53,
