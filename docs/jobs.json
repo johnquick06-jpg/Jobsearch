@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:32:42+00:00",
- "count": 71,
+ "updated": "2026-11-16T23:11:45+00:00",
+ "count": 73,
  "jobs": [
   {
    "score": 98,
@@ -58,7 +58,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-15T02:39:24-05:00"
+   "posted": "2026-11-16T14:38:16-05:00"
   },
   {
    "score": 78,
@@ -116,7 +116,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-15T02:41:30-05:00"
+   "posted": "2026-11-16T14:40:50-05:00"
   },
   {
    "score": 75,
@@ -255,7 +255,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-15T02:41:53-05:00"
+   "posted": "2026-11-16T14:41:19-05:00"
   },
   {
    "score": 72,
@@ -316,6 +316,35 @@
     "community"
    ],
    "posted": "2026-11-10T22:13:32-05:00"
+  },
+  {
+   "score": 70,
+   "fit": 75,
+   "title": "Senior Game Producer - VALORANT, Maps",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8316719?gh_jid=8316719",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "creative",
+    "cross-functional",
+    "milestone",
+    "pipeline",
+    "production",
+    "risk",
+    "roadmap"
+   ],
+   "gaps": [
+    "console",
+    "mobile"
+   ],
+   "posted": "2026-11-16T12:45:04-05:00"
   },
   {
    "score": 70,
@@ -421,7 +450,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:37:25-05:00"
+   "posted": "2026-11-16T14:36:02-05:00"
   },
   {
    "score": 69,
@@ -552,7 +581,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:39:26-05:00"
+   "posted": "2026-11-16T14:38:19-05:00"
   },
   {
    "score": 68,
@@ -577,7 +606,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:48:01-05:00"
+   "posted": "2026-11-16T02:48:06-05:00"
   },
   {
    "score": 68,
@@ -782,7 +811,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-15T02:40:03-05:00"
+   "posted": "2026-11-16T14:39:02-05:00"
   },
   {
    "score": 66,
@@ -805,7 +834,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:44:05-05:00"
+   "posted": "2026-11-16T14:43:48-05:00"
   },
   {
    "score": 66,
@@ -1063,7 +1092,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-15T02:46:12-05:00"
+   "posted": "2026-11-16T14:46:14-05:00"
   },
   {
    "score": 59,
@@ -1089,7 +1118,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:35:50-05:00"
+   "posted": "2026-11-16T14:34:21-05:00"
   },
   {
    "score": 58,
@@ -1114,7 +1143,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:39:10-05:00"
+   "posted": "2026-11-16T14:38:00-05:00"
   },
   {
    "score": 57,
@@ -1139,7 +1168,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-15T02:42:30-05:00"
+   "posted": "2026-11-16T14:41:58-05:00"
   },
   {
    "score": 57,
@@ -1163,7 +1192,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:35:24-05:00"
+   "posted": "2026-11-16T14:33:52-05:00"
   },
   {
    "score": 57,
@@ -1215,32 +1244,6 @@
     "mobile"
    ],
    "posted": "2026-09-25T11:30:43-04:00"
-  },
-  {
-   "score": 57,
-   "fit": 34,
-   "title": "Sr. Program Manager, Accessibility",
-   "company": "twitch",
-   "location": "Los Angeles, CA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$130k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/twitch/jobs/8918709002",
-   "source": "Greenhouse",
-   "matched": [
-    "jira",
-    "pipeline",
-    "risk",
-    "video"
-   ],
-   "gaps": [
-    "figma",
-    "community",
-    "console"
-   ],
-   "posted": "2026-10-27T11:36:46-04:00"
   },
   {
    "score": 56,
@@ -1400,7 +1403,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:40:43-05:00"
+   "posted": "2026-11-16T14:39:52-05:00"
   },
   {
    "score": 55,
@@ -1423,7 +1426,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-15T02:36:16-05:00"
+   "posted": "2026-11-16T14:34:47-05:00"
   },
   {
    "score": 55,
@@ -1447,7 +1450,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-15T02:47:03-05:00"
+   "posted": "2026-11-16T14:47:14-05:00"
   },
   {
    "score": 55,
@@ -1469,7 +1472,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:40:14-05:00"
+   "posted": "2026-11-16T14:39:17-05:00"
   },
   {
    "score": 55,
@@ -1491,7 +1494,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:46:01-05:00"
+   "posted": "2026-11-16T14:46:00-05:00"
   },
   {
    "score": 54,
@@ -1568,7 +1571,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:36:36-05:00"
+   "posted": "2026-11-16T14:35:07-05:00"
   },
   {
    "score": 54,
@@ -1593,7 +1596,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-15T02:36:55-05:00"
+   "posted": "2026-11-16T14:35:30-05:00"
   },
   {
    "score": 53,
@@ -1622,6 +1625,26 @@
   },
   {
    "score": 53,
+   "fit": 25,
+   "title": "Senior Director, Account Management, Creator Relations ",
+   "company": "roblox",
+   "location": "San Mateo, CA, United States",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$299k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://careers.roblox.com/jobs/8384073?gh_jid=8384073",
+   "source": "Greenhouse",
+   "matched": [],
+   "gaps": [
+    "crm",
+    "community"
+   ],
+   "posted": "2026-11-16T15:35:02-05:00"
+  },
+  {
+   "score": 53,
    "fit": 26,
    "title": " Senior Director, Privacy, Product and Platform Security ",
    "company": "roblox",
@@ -1643,7 +1666,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:41:51-05:00"
+   "posted": "2026-11-16T14:41:16-05:00"
   },
   {
    "score": 53,
@@ -1668,7 +1691,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-15T02:40:44-05:00"
+   "posted": "2026-11-16T14:39:54-05:00"
   },
   {
    "score": 52,
@@ -1742,6 +1765,31 @@
    ],
    "gaps": [],
    "posted": "2026-11-10T22:13:32-05:00"
+  },
+  {
+   "score": 49,
+   "fit": 33,
+   "title": "Researcher II - Riftbound",
+   "company": "riotgames",
+   "location": "Los Angeles, USA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8351152?gh_jid=8351152",
+   "source": "Greenhouse",
+   "matched": [
+    "creative",
+    "marketing",
+    "pipeline",
+    "production",
+    "publishing",
+    "release",
+    "stakeholder"
+   ],
+   "gaps": [],
+   "posted": "2026-11-16T16:27:31-05:00"
   },
   {
    "score": 49,
