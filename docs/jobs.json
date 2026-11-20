@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:57:53+00:00",
- "count": 77,
+ "updated": "2026-11-20T21:40:18+00:00",
+ "count": 78,
  "jobs": [
   {
    "score": 98,
@@ -29,7 +29,7 @@
     "budget",
     "community"
    ],
-   "posted": "2026-11-02T13:24:05-05:00"
+   "posted": "2026-11-19T17:47:15-05:00"
   },
   {
    "score": 88,
@@ -58,7 +58,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-19T14:38:46-05:00"
+   "posted": "2026-11-20T14:38:51-05:00"
   },
   {
    "score": 78,
@@ -116,7 +116,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-19T14:41:12-05:00"
+   "posted": "2026-11-20T14:41:17-05:00"
   },
   {
    "score": 75,
@@ -255,7 +255,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-19T14:41:34-05:00"
+   "posted": "2026-11-20T14:41:36-05:00"
   },
   {
    "score": 72,
@@ -480,7 +480,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:36:31-05:00"
+   "posted": "2026-11-20T14:36:38-05:00"
   },
   {
    "score": 69,
@@ -611,7 +611,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:38:49-05:00"
+   "posted": "2026-11-20T14:38:53-05:00"
   },
   {
    "score": 68,
@@ -636,7 +636,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:48:41-05:00"
+   "posted": "2026-11-20T14:48:16-05:00"
   },
   {
    "score": 68,
@@ -874,7 +874,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-19T14:39:32-05:00"
+   "posted": "2026-11-20T14:39:35-05:00"
   },
   {
    "score": 66,
@@ -897,7 +897,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:43:55-05:00"
+   "posted": "2026-11-20T14:43:52-05:00"
   },
   {
    "score": 66,
@@ -1051,7 +1051,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-09T13:17:49-05:00"
+   "posted": "2026-11-20T10:52:58-05:00"
   },
   {
    "score": 61,
@@ -1100,6 +1100,35 @@
     "mobile"
    ],
    "posted": "2026-11-18T17:01:57-05:00"
+  },
+  {
+   "score": 60,
+   "fit": 40,
+   "title": "Account Executive, Media & Entertainment",
+   "company": "discord",
+   "location": "Los Angeles Metropolitan Area or New York City Metropolitan Area",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$272k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8945798002",
+   "source": "Greenhouse",
+   "matched": [
+    "campaign",
+    "content",
+    "creative",
+    "cross-functional",
+    "marketing",
+    "release",
+    "roadmap",
+    "stakeholder"
+   ],
+   "gaps": [
+    "budget",
+    "community"
+   ],
+   "posted": "2026-11-19T21:12:00-05:00"
   },
   {
    "score": 60,
@@ -1153,7 +1182,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-19T14:46:33-05:00"
+   "posted": "2026-11-20T14:46:11-05:00"
   },
   {
    "score": 59,
@@ -1179,7 +1208,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:34:56-05:00"
+   "posted": "2026-11-20T14:34:54-05:00"
   },
   {
    "score": 58,
@@ -1204,7 +1233,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:34:27-05:00"
+   "posted": "2026-11-20T14:34:26-05:00"
   },
   {
    "score": 58,
@@ -1229,7 +1258,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:38:29-05:00"
+   "posted": "2026-11-20T14:38:36-05:00"
   },
   {
    "score": 57,
@@ -1254,7 +1283,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-19T14:42:14-05:00"
+   "posted": "2026-11-20T14:42:12-05:00"
   },
   {
    "score": 57,
@@ -1470,25 +1499,29 @@
   },
   {
    "score": 55,
-   "fit": 29,
-   "title": "Principal Product Manager, Subscriptions and Revenue Growth",
-   "company": "roblox",
-   "location": "San Mateo, CA, United States",
+   "fit": 45,
+   "title": "Sr. Manager, Game Production - Unpublished R&D Product",
+   "company": "riotgames",
+   "location": "Los Angeles, USA; Mercer Island, USA",
    "mode": "On-site",
    "org": "Studio/Publisher",
    "type": "Full-time",
-   "salary": "$331k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://careers.roblox.com/jobs/8219433?gh_jid=8219433",
+   "salary": "Unlisted",
+   "salary_tag": "Unlisted",
+   "url": "https://www.riotgames.com/en/work-with-us/job/8157992?gh_jid=8157992",
    "source": "Greenhouse",
    "matched": [
+    "content",
     "creative",
-    "roadmap"
+    "cross-functional",
+    "jira",
+    "milestone",
+    "pipeline",
+    "production",
+    "risk"
    ],
-   "gaps": [
-    "community"
-   ],
-   "posted": "2026-11-19T15:00:13-05:00"
+   "gaps": [],
+   "posted": "2026-11-19T19:12:49-05:00"
   },
   {
    "score": 55,
@@ -1511,7 +1544,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-19T14:35:24-05:00"
+   "posted": "2026-11-20T14:35:22-05:00"
   },
   {
    "score": 55,
@@ -1535,7 +1568,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-19T14:47:30-05:00"
+   "posted": "2026-11-20T14:47:05-05:00"
   },
   {
    "score": 55,
@@ -1557,7 +1590,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:39:43-05:00"
+   "posted": "2026-11-20T14:39:47-05:00"
   },
   {
    "score": 55,
@@ -1579,7 +1612,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:46:20-05:00"
+   "posted": "2026-11-20T14:45:59-05:00"
   },
   {
    "score": 54,
@@ -1685,7 +1718,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:35:41-05:00"
+   "posted": "2026-11-20T14:35:48-05:00"
   },
   {
    "score": 54,
@@ -1710,7 +1743,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-19T14:36:00-05:00"
+   "posted": "2026-11-20T14:36:08-05:00"
   },
   {
    "score": 53,
@@ -1755,7 +1788,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-11-19T14:34:32-05:00"
+   "posted": "2026-11-20T14:34:31-05:00"
   },
   {
    "score": 53,
@@ -1780,7 +1813,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:41:31-05:00"
+   "posted": "2026-11-20T14:41:34-05:00"
   },
   {
    "score": 53,
@@ -1805,7 +1838,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-19T14:40:18-05:00"
+   "posted": "2026-11-20T14:40:19-05:00"
   },
   {
    "score": 52,
