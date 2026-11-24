@@ -1,36 +1,7 @@
 {
- "updated": "2026-11-22T20:34:50+00:00",
- "count": 77,
+ "updated": "2026-11-24T01:28:11+00:00",
+ "count": 72,
  "jobs": [
-  {
-   "score": 98,
-   "fit": 96,
-   "title": "Principal Marketing Manager, Marathon (Contract)",
-   "company": "bungie",
-   "location": "United States, Remote",
-   "mode": "Remote",
-   "org": "Studio/Publisher",
-   "type": "Contract",
-   "salary": "$164k (converted from hourly)",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/bungie/jobs/6181868004",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "creative",
-    "cross-functional",
-    "launch",
-    "live-service",
-    "marketing",
-    "milestone",
-    "publishing"
-   ],
-   "gaps": [
-    "budget",
-    "community"
-   ],
-   "posted": "2026-11-20T20:10:35-05:00"
-  },
   {
    "score": 88,
    "fit": 96,
@@ -58,7 +29,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-22T14:39:25-05:00"
+   "posted": "2026-11-23T14:39:56-05:00"
   },
   {
    "score": 78,
@@ -116,7 +87,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-22T14:41:35-05:00"
+   "posted": "2026-11-23T14:42:12-05:00"
   },
   {
    "score": 75,
@@ -255,7 +226,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-22T14:41:55-05:00"
+   "posted": "2026-11-23T14:42:32-05:00"
   },
   {
    "score": 72,
@@ -429,34 +400,6 @@
    "posted": "2026-11-18T17:01:57-05:00"
   },
   {
-   "score": 70,
-   "fit": 40,
-   "title": "Sr. Manager, Benefits (North America)",
-   "company": "scopely",
-   "location": "US - Culver City, United States; US - United States",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$138k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/scopely/jobs/5211606008?gh_jid=5211606008",
-   "source": "Greenhouse",
-   "matched": [
-    "cross-functional",
-    "publishing",
-    "risk",
-    "roadmap",
-    "stakeholder",
-    "vendor management",
-    "video"
-   ],
-   "gaps": [
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-11-09T13:04:26-05:00"
-  },
-  {
    "score": 69,
    "fit": 58,
    "title": "Games Creative/Design Director",
@@ -480,7 +423,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:37:22-05:00"
+   "posted": "2026-11-23T14:37:54-05:00"
   },
   {
    "score": 69,
@@ -611,7 +554,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:39:28-05:00"
+   "posted": "2026-11-23T14:39:58-05:00"
   },
   {
    "score": 68,
@@ -636,7 +579,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:47:56-05:00"
+   "posted": "2026-11-23T14:48:51-05:00"
   },
   {
    "score": 68,
@@ -874,7 +817,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-22T14:40:07-05:00"
+   "posted": "2026-11-23T14:40:40-05:00"
   },
   {
    "score": 66,
@@ -897,7 +840,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:43:59-05:00"
+   "posted": "2026-11-23T14:44:44-05:00"
   },
   {
    "score": 66,
@@ -1024,34 +967,6 @@
    ],
    "gaps": [],
    "posted": "2026-11-18T17:01:57-05:00"
-  },
-  {
-   "score": 62,
-   "fit": 38,
-   "title": "Product Manager",
-   "company": "scopely",
-   "location": "CA - Canada",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://job-boards.greenhouse.io/scopely/jobs/5477112008?gh_jid=5477112008",
-   "source": "Greenhouse",
-   "matched": [
-    "content",
-    "cross-functional",
-    "live service",
-    "marketing",
-    "roadmap",
-    "video"
-   ],
-   "gaps": [
-    "crm",
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-11-20T10:52:58-05:00"
   },
   {
    "score": 61,
@@ -1182,7 +1097,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-22T14:46:02-05:00"
+   "posted": "2026-11-23T14:46:50-05:00"
   },
   {
    "score": 59,
@@ -1208,7 +1123,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:35:54-05:00"
+   "posted": "2026-11-23T14:36:22-05:00"
   },
   {
    "score": 58,
@@ -1233,7 +1148,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:35:26-05:00"
+   "posted": "2026-11-23T14:35:48-05:00"
   },
   {
    "score": 58,
@@ -1258,7 +1173,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:39:11-05:00"
+   "posted": "2026-11-23T14:39:42-05:00"
   },
   {
    "score": 57,
@@ -1519,7 +1434,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-22T14:36:20-05:00"
+   "posted": "2026-11-23T14:36:47-05:00"
   },
   {
    "score": 55,
@@ -1543,7 +1458,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-22T14:46:51-05:00"
+   "posted": "2026-11-23T14:47:44-05:00"
   },
   {
    "score": 55,
@@ -1565,7 +1480,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:40:17-05:00"
+   "posted": "2026-11-23T14:40:51-05:00"
   },
   {
    "score": 55,
@@ -1587,7 +1502,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:45:56-05:00"
+   "posted": "2026-11-23T14:46:43-05:00"
   },
   {
    "score": 54,
@@ -1617,34 +1532,6 @@
     "mobile"
    ],
    "posted": "2026-11-17T20:02:06-05:00"
-  },
-  {
-   "score": 54,
-   "fit": 43,
-   "title": "Principal, Growth Lead - League of Legends",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8257953?gh_jid=8257953",
-   "source": "Greenhouse",
-   "matched": [
-    "campaign",
-    "creative",
-    "cross-functional",
-    "marketing",
-    "performance marketing",
-    "publishing",
-    "roadmap",
-    "stakeholder"
-   ],
-   "gaps": [
-    "crm"
-   ],
-   "posted": "2026-11-18T17:01:57-05:00"
   },
   {
    "score": 54,
@@ -1693,7 +1580,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:36:36-05:00"
+   "posted": "2026-11-23T14:37:04-05:00"
   },
   {
    "score": 54,
@@ -1718,7 +1605,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-22T14:36:54-05:00"
+   "posted": "2026-11-23T14:37:24-05:00"
   },
   {
    "score": 53,
@@ -1763,7 +1650,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-11-22T14:35:31-05:00"
+   "posted": "2026-11-23T14:35:53-05:00"
   },
   {
    "score": 53,
@@ -1788,7 +1675,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:41:52-05:00"
+   "posted": "2026-11-23T14:42:30-05:00"
   },
   {
    "score": 53,
@@ -1813,7 +1700,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-22T14:40:45-05:00"
+   "posted": "2026-11-23T14:41:17-05:00"
   },
   {
    "score": 52,
@@ -1839,30 +1726,6 @@
    "gaps": [
     "sql"
    ],
-   "posted": "2026-11-18T17:01:57-05:00"
-  },
-  {
-   "score": 52,
-   "fit": 38,
-   "title": "Principal Technical Product Manager - VALORANT, Developer Tooling",
-   "company": "riotgames",
-   "location": "Los Angeles, USA",
-   "mode": "On-site",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "Unlisted",
-   "salary_tag": "Unlisted",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8221969?gh_jid=8221969",
-   "source": "Greenhouse",
-   "matched": [
-    "creative",
-    "cross-functional",
-    "milestone",
-    "pipeline",
-    "release",
-    "roadmap"
-   ],
-   "gaps": [],
    "posted": "2026-11-18T17:01:57-05:00"
   },
   {
