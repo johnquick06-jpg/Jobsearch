@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T23:22:36+00:00",
- "count": 72,
+ "updated": "2026-11-25T22:56:14+00:00",
+ "count": 73,
  "jobs": [
   {
    "score": 88,
@@ -29,7 +29,7 @@
     "asana",
     "community"
    ],
-   "posted": "2026-11-24T14:39:45-05:00"
+   "posted": "2026-11-25T14:40:05-05:00"
   },
   {
    "score": 78,
@@ -87,7 +87,7 @@
     "community",
     "influencer marketing"
    ],
-   "posted": "2026-11-24T14:41:49-05:00"
+   "posted": "2026-11-25T14:42:08-05:00"
   },
   {
    "score": 75,
@@ -226,7 +226,7 @@
     "figma",
     "community"
    ],
-   "posted": "2026-11-24T14:42:08-05:00"
+   "posted": "2026-11-25T14:42:28-05:00"
   },
   {
    "score": 72,
@@ -423,7 +423,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:37:49-05:00"
+   "posted": "2026-11-25T14:38:05-05:00"
   },
   {
    "score": 69,
@@ -554,7 +554,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:39:47-05:00"
+   "posted": "2026-11-25T14:40:07-05:00"
   },
   {
    "score": 68,
@@ -579,7 +579,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:48:19-05:00"
+   "posted": "2026-11-25T14:48:31-05:00"
   },
   {
    "score": 68,
@@ -606,32 +606,6 @@
     "mobile"
    ],
    "posted": "2026-11-03T20:51:36-05:00"
-  },
-  {
-   "score": 68,
-   "fit": 36,
-   "title": "Director, Corporate Development",
-   "company": "scopely",
-   "location": "US - Culver City, California, United States",
-   "mode": "Hybrid",
-   "org": "Studio/Publisher",
-   "type": "Full-time",
-   "salary": "$164k",
-   "salary_tag": "\u2265 $110k",
-   "url": "https://job-boards.greenhouse.io/scopely/jobs/5449450008?gh_jid=5449450008",
-   "source": "Greenhouse",
-   "matched": [
-    "pipeline",
-    "publishing",
-    "release",
-    "risk",
-    "video"
-   ],
-   "gaps": [
-    "console",
-    "mobile"
-   ],
-   "posted": "2026-10-30T09:53:15-04:00"
   },
   {
    "score": 68,
@@ -716,6 +690,30 @@
     "community"
    ],
    "posted": "2026-09-18T17:53:43-04:00"
+  },
+  {
+   "score": 67,
+   "fit": 34,
+   "title": "Director of User Experience (UX) Research",
+   "company": "discord",
+   "location": "Remote (U.S.)",
+   "mode": "Remote",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$320k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8871293002",
+   "source": "Greenhouse",
+   "matched": [
+    "cross-functional",
+    "risk",
+    "roadmap",
+    "video"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-11-25T11:12:13-05:00"
   },
   {
    "score": 67,
@@ -817,7 +815,7 @@
     "community",
     "mobile"
    ],
-   "posted": "2026-11-24T14:40:24-05:00"
+   "posted": "2026-11-25T14:40:44-05:00"
   },
   {
    "score": 66,
@@ -840,7 +838,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:44:20-05:00"
+   "posted": "2026-11-25T14:44:35-05:00"
   },
   {
    "score": 66,
@@ -1097,7 +1095,7 @@
     "console",
     "mobile"
    ],
-   "posted": "2026-11-24T14:46:22-05:00"
+   "posted": "2026-11-25T14:46:37-05:00"
   },
   {
    "score": 59,
@@ -1123,7 +1121,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:36:19-05:00"
+   "posted": "2026-11-25T14:36:32-05:00"
   },
   {
    "score": 58,
@@ -1148,7 +1146,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:35:52-05:00"
+   "posted": "2026-11-25T14:36:06-05:00"
   },
   {
    "score": 58,
@@ -1173,7 +1171,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:39:31-05:00"
+   "posted": "2026-11-25T14:39:50-05:00"
   },
   {
    "score": 57,
@@ -1336,6 +1334,29 @@
    "posted": "2026-11-09T16:31:45-05:00"
   },
   {
+   "score": 56,
+   "fit": 32,
+   "title": "Head of Music, Twitch",
+   "company": "twitch",
+   "location": "Los Angeles, CA",
+   "mode": "On-site",
+   "org": "Studio/Publisher",
+   "type": "Full-time",
+   "salary": "$207k",
+   "salary_tag": "\u2265 $110k",
+   "url": "https://job-boards.greenhouse.io/twitch/jobs/8950947002",
+   "source": "Greenhouse",
+   "matched": [
+    "content",
+    "cross-functional",
+    "stakeholder"
+   ],
+   "gaps": [
+    "community"
+   ],
+   "posted": "2026-11-25T11:49:30-05:00"
+  },
+  {
    "score": 55,
    "fit": 45,
    "title": "Associate Art Director - League Cosmetics",
@@ -1434,7 +1455,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-24T14:36:44-05:00"
+   "posted": "2026-11-25T14:36:57-05:00"
   },
   {
    "score": 55,
@@ -1458,7 +1479,7 @@
     "social media",
     "community"
    ],
-   "posted": "2026-11-24T14:47:11-05:00"
+   "posted": "2026-11-25T14:47:28-05:00"
   },
   {
    "score": 55,
@@ -1480,7 +1501,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:40:34-05:00"
+   "posted": "2026-11-25T14:40:53-05:00"
   },
   {
    "score": 55,
@@ -1502,7 +1523,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:46:16-05:00"
+   "posted": "2026-11-25T14:46:29-05:00"
   },
   {
    "score": 54,
@@ -1580,7 +1601,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:37:00-05:00"
+   "posted": "2026-11-25T14:37:15-05:00"
   },
   {
    "score": 54,
@@ -1605,7 +1626,7 @@
     "sql",
     "community"
    ],
-   "posted": "2026-11-24T14:37:20-05:00"
+   "posted": "2026-11-25T14:37:35-05:00"
   },
   {
    "score": 53,
@@ -1650,7 +1671,7 @@
     "crm",
     "community"
    ],
-   "posted": "2026-11-24T14:35:56-05:00"
+   "posted": "2026-11-25T14:36:11-05:00"
   },
   {
    "score": 53,
@@ -1675,7 +1696,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:42:06-05:00"
+   "posted": "2026-11-25T14:42:26-05:00"
   },
   {
    "score": 53,
@@ -1700,7 +1721,7 @@
    "gaps": [
     "community"
    ],
-   "posted": "2026-11-24T14:40:57-05:00"
+   "posted": "2026-11-25T14:41:17-05:00"
   },
   {
    "score": 52,
